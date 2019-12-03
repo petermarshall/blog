@@ -3,44 +3,32 @@ layout: page
 title: CV
 permalink: /cv/
 ---
+
     
-    <div class="container-fluid p-0">
+    # Peter <span >Marshall</span>
     
-    <section class="resume-section p-3 p-lg-5 d-flex d-column" id="about">
-    
-    <div class="my-auto">
-    
-    # Peter <span class="text-primary">Marshall</span>
-    
-    <div class="subheading mb-5">106 Frenchay Road, Oxford, OX2 6TF, UK . [marshall.peter@gmail.com](mailto:name@email.com)</div>
+    <div>106 Frenchay Road, Oxford, OX2 6TF, UK . [marshall.peter@gmail.com](mailto:name@email.com)</div>
     
     Enterprise Application Developer with over 20 Years of experience as a contractor working on a wide variety of development projects. Working mostly in Public Utilities, Telecoms, Finance and Scientific Journal Publishing. Microsoft Gold Partner.
     
     Most recent skills, ASP.NET MVC, C#, SQL Server, Web Services, Visual Studio, Agile, Scrum, REST, LINQ, TDD, BDD, EF. Javascript, Angular, React
     
-    *   [<span class="fa-stack fa-lg"></span>](http://peter.withknown.com)
-    *   [<span class="fa-stack fa-lg"></span>](https://twitter.com/petermarshall)
-    *   [<span class="fa-stack fa-lg"></span>](https://linkedin.com/in/thebestdevyouwilleverfind)
-    *   [<span class="fa-stack fa-lg"></span>](https://stackoverflow.com/users/4692/peter-marshall)
-    *   [<span class="fa-stack fa-lg"></span>](http://www.mycertprofile.com/Profile/9843288887)
+    *   (http://peter.withknown.com)
+    *   (https://twitter.com/petermarshall)
+    *   (https://linkedin.com/in/thebestdevyouwilleverfind)
+    *   (https://stackoverflow.com/users/4692/peter-marshall)
+    *   (http://www.mycertprofile.com/Profile/9843288887)
     
-    </div>
-    
-    </section>
-    
-    <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="experience">
-    
-    <div class="my-auto">
+
+
     
     ## Recent Experience
     
-    <div class="resume-item d-flex flex-column flex-md-row mb-5">
-    
-    <div class="resume-content mr-auto">
+
     
     #### Senior Developer (contract)
     
-    <div class="subheading mb-3">UKSBS (Swindon)</div>
+    <div>UKSBS (Swindon)</div>
     
     Skills: DOTNET CORE, ASP.NET MVC, WEB API, C#, JavaScript, AWS, Micro services, Postgresql, Git, TDD, scrum, Okta, Jenkins
     
@@ -50,19 +38,18 @@ permalink: /cv/
     
     Writing code across the full stack, some of these modules were very complex indeed translating existing stored procedures for spread calculations into c#
     
-    </div>
+
     
-    <div class="resume-date text-md-right"><span class="text-primary">November 2018 - present</span></div>
+    <div><span >November 2018 - present</span></div>
     
-    </div>
     
-    <div class="resume-item d-flex flex-column flex-md-row mb-5">
     
-    <div class="resume-content mr-auto">
+    
+    <div>
     
     #### Senior Developer (contract)
     
-    <div class="subheading mb-3">Schroders Asset Management (Luxembourg)</div>
+    <div>Schroders Asset Management (Luxembourg)</div>
     
     Skills: ASP.NET MVC, WEB API, C#, JavaScript, Azure, Service Fabric, React, Sql Server, GraphQl, NodeJS, TFS, TDD, scrum, Octopus Deploy
     
@@ -74,17 +61,17 @@ permalink: /cv/
     
     </div>
     
-    <div class="resume-date text-md-right"><span class="text-primary">July 2018 - October 2018</span></div>
+    <div ><span >July 2018 - October 2018</span></div>
     
     </div>
     
-    <div class="resume-item d-flex flex-column flex-md-row mb-5">
     
-    <div class="resume-content mr-auto">
+    
+    <div >
     
     #### Developer (contract)
     
-    <div class="subheading mb-3">Sunquest Information Systems</div>
+    <div >Sunquest Information Systems</div>
     
     Skills: ASP.NET MVC, WEB API, C#, JavaScript, Angular, Sql Server, TFS, TDD, scrum, Entity Framework.
     
@@ -98,17 +85,17 @@ permalink: /cv/
     
     </div>
     
-    <div class="resume-date text-md-right"><span class="text-primary">July 2017 - July 2018</span></div>
+    <div ><span >July 2017 - July 2018</span></div>
     
     </div>
     
-    <div class="resume-item d-flex flex-column flex-md-row mb-5">
     
-    <div class="resume-content mr-auto">
+    
+    <div >
     
     #### Developer (contract)
     
-    <div class="subheading mb-3">JP Morgan</div>
+    <div >JP Morgan</div>
     
     Skills: ASP.NET MVC, WEB API, C#, Javascript, typescript, Angular, Sql Server, Git, TDD, splunk, windows services, powershell, Jenkins.
     
@@ -124,17 +111,17 @@ permalink: /cv/
     
     </div>
     
-    <div class="resume-date text-md-right"><span class="text-primary">March 2017 - July 2017</span></div>
+    <div ><span >March 2017 - July 2017</span></div>
     
     </div>
     
-    <div class="resume-item d-flex flex-column flex-md-row mb-5">
     
-    <div class="resume-content mr-auto">
+    
+    <div >
     
     #### Developer (contract)
     
-    <div class="subheading mb-3">UCAS</div>
+    <div >UCAS</div>
     
     Skills: ASP.NET MVC, WEB API, C#, Javascript, Angular, MySql, Git, NEventStore, Dapper, ElasticSearch, CQRS, AWS, Postgres, Fluent Migrator, MSPec, Scrum, TDD.
     
@@ -148,17 +135,17 @@ permalink: /cv/
     
     </div>
     
-    <div class="resume-date text-md-right"><span class="text-primary">March 2015 - February 2017</span></div>
+    <div ><span >March 2015 - February 2017</span></div>
     
     </div>
     
-    <div class="resume-item d-flex flex-column flex-md-row mb-5">
     
-    <div class="resume-content mr-auto">
+    
+    <div >
     
     #### Developer (contract)
     
-    <div class="subheading mb-3">Royal Horticultural Society</div>
+    <div >Royal Horticultural Society</div>
     
     Skills: ASP.NET MVC 5.0, WEB.API 2.0, C#, Javascript, SQL Server, TDD, MOQ, TFS, Angular, Bootstrap.
     
@@ -168,17 +155,17 @@ permalink: /cv/
     
     </div>
     
-    <div class="resume-date text-md-right"><span class="text-primary">August 2014 - February 2015</span></div>
+    <div ><span >August 2014 - February 2015</span></div>
     
     </div>
     
-    <div class="resume-item d-flex flex-column flex-md-row mb-5">
     
-    <div class="resume-content mr-auto">
+    
+    <div >
     
     #### Developer (contract)
     
-    <div class="subheading mb-3">CPA Global</div>
+    <div >CPA Global</div>
     
     Skills: ASP.NET MVC 4, WEB.API, C#, Javascript, SQL Server, Oracle, Telerik Open Access, TDD, BDD, StoryQ, SVN, MOQ, Angular.js, Automapper, JIRA.
     
@@ -188,17 +175,17 @@ permalink: /cv/
     
     </div>
     
-    <div class="resume-date text-md-right"><span class="text-primary">January 2014 - July 2014</span></div>
+    <div ><span >January 2014 - July 2014</span></div>
     
     </div>
     
-    <div class="resume-item d-flex flex-column flex-md-row mb-5">
     
-    <div class="resume-content mr-auto">
+    
+    <div >
     
     #### Developer (contract)
     
-    <div class="subheading mb-3">JP Morgan Chase</div>
+    <div >JP Morgan Chase</div>
     
     Skills: ASP.NET MVC 3/4, C#, Razor, Javascript, SQL Server, Oracle, Entity Framework, WCF, .NET 4.5, TDD, MOQ, JQuery, Knockout.js, QPID, SPA, scrum, jira, cruisecontrol, svn.
     
@@ -214,7 +201,7 @@ permalink: /cv/
     
     </div>
     
-    <div class="resume-date text-md-right"><span class="text-primary">August 2011 - December 2013</span></div>
+    <div ><span >August 2011 - December 2013</span></div>
     
     </div>
     
@@ -228,13 +215,13 @@ permalink: /cv/
     
     ## Older Experience
     
-    <div class="resume-item d-flex flex-column flex-md-row mb-5">
     
-    <div class="resume-content mr-auto">
+    
+    <div >
     
     #### Developer (contract)
     
-    <div class="subheading mb-3">Doctors Chambers</div>
+    <div >Doctors Chambers</div>
     
     Skills: Silverlight, MVVMLight, WCF, ASP.NET, C#, SQL Server, .NET 4, TDD, SVN, Blend, Entity Framework, LINQ, WPF, Interlinq (RIA Services), MOQ, SQl Server Service Broker.
     
@@ -248,17 +235,17 @@ permalink: /cv/
     
     </div>
     
-    <div class="resume-date text-md-right"><span class="text-primary">Ferurayr 2011 - July 2011</span></div>
+    <div ><span >Ferurayr 2011 - July 2011</span></div>
     
     </div>
     
-    <div class="resume-item d-flex flex-column flex-md-row mb-5">
     
-    <div class="resume-content mr-auto">
+    
+    <div >
     
     #### Developer (contract)
     
-    <div class="subheading mb-3">Reed Business Information</div>
+    <div >Reed Business Information</div>
     
     Skills: WCF, ASP.NET, C#, SQL Server, .NET 3.5, TDD, MOQ, SSIS, Ecommerce, TFS, ELMAH, watin.
     
@@ -272,17 +259,17 @@ permalink: /cv/
     
     </div>
     
-    <div class="resume-date text-md-right"><span class="text-primary">August 2010 - Janunary 2011</span></div>
+    <div ><span >August 2010 - Janunary 2011</span></div>
     
     </div>
     
-    <div class="resume-item d-flex flex-column flex-md-row mb-5">
     
-    <div class="resume-content mr-auto">
+    
+    <div >
     
     #### Developer (contract)
     
-    <div class="subheading mb-3">Big Pink New Media</div>
+    <div >Big Pink New Media</div>
     
     Skills: ASP.NET MVC 2, C#, SQL Server, NHibernate, .NET 3.5, JQuery, Ninject, JSONP, TDD, MOQ, scrum, StoryQ, Sharepoint, Pair Programming.
     
@@ -300,17 +287,17 @@ permalink: /cv/
     
     </div>
     
-    <div class="resume-date text-md-right"><span class="text-primary">January 2010 - July 2010</span></div>
+    <div ><span >January 2010 - July 2010</span></div>
     
     </div>
     
-    <div class="resume-item d-flex flex-column flex-md-row mb-5">
     
-    <div class="resume-content mr-auto">
+    
+    <div >
     
     #### Developer (contract)
     
-    <div class="subheading mb-3">Formula One Management</div>
+    <div >Formula One Management</div>
     
     Skills: ASP.NET MVC, JQuery, C#, SQL Server, Linq to Sql, .NET 3.5, TDD, MOQ, scrum, Excel, DOCX.
     
@@ -326,17 +313,17 @@ permalink: /cv/
     
     </div>
     
-    <div class="resume-date text-md-right"><span class="text-primary">September 2009 - January 2010</span></div>
+    <div ><span >September 2009 - January 2010</span></div>
     
     </div>
     
-    <div class="resume-item d-flex flex-column flex-md-row mb-5">
     
-    <div class="resume-content mr-auto">
+    
+    <div >
     
     #### Developer (contract)
     
-    <div class="subheading mb-3">IDOX Group Plc</div>
+    <div >IDOX Group Plc</div>
     
     Skills: C#, Oracle, Visual Studio, ASP.NET, NUnit, NHibernate (ORM), Web Services, WSDL, TDD, PLSQL, Perforce.
     
@@ -346,17 +333,17 @@ permalink: /cv/
     
     </div>
     
-    <div class="resume-date text-md-right"><span class="text-primary">December 2008 - August 2009</span></div>
+    <div ><span >December 2008 - August 2009</span></div>
     
     </div>
     
-    <div class="resume-item d-flex flex-column flex-md-row mb-5">
     
-    <div class="resume-content mr-auto">
+    
+    <div >
     
     #### Developer (contract)
     
-    <div class="subheading mb-3">CDC Respond</div>
+    <div >CDC Respond</div>
     
     Skills: C# 3.0 .NET 3.5, SQL Server, Team Foundation Server, WPF, WCF, LINQ. TDD.
     
@@ -364,17 +351,17 @@ permalink: /cv/
     
     </div>
     
-    <div class="resume-date text-md-right"><span class="text-primary">August 2008 - November 2008</span></div>
+    <div ><span >August 2008 - November 2008</span></div>
     
     </div>
     
-    <div class="resume-item d-flex flex-column flex-md-row mb-5">
     
-    <div class="resume-content mr-auto">
+    
+    <div >
     
     #### Developer (contract)
     
-    <div class="subheading mb-3">Pearson (Oxford)</div>
+    <div >Pearson (Oxford)</div>
     
     Skills: ASP.NET MVC, C#, Silverlight, XAML, SQL Server, VisualStudio.NET, TeamCity, REST, NUnit, TDD, watin, Selenium, Subversion, pair programming.
     
@@ -390,17 +377,17 @@ permalink: /cv/
     
     </div>
     
-    <div class="resume-date text-md-right"><span class="text-primary">November 2007 - July 2008</span></div>
+    <div ><span >November 2007 - July 2008</span></div>
     
     </div>
     
-    <div class="resume-item d-flex flex-column flex-md-row mb-5">
     
-    <div class="resume-content mr-auto">
+    
+    <div >
     
     #### Developer (contract)
     
-    <div class="subheading mb-3">OPP (Oxford)</div>
+    <div >OPP (Oxford)</div>
     
     Skills: ASP.NET 2.0 , C# 2.0, SQL Server 2005, VisualStudio.NET 2005, Windows Forms.
     
@@ -416,17 +403,17 @@ permalink: /cv/
     
     </div>
     
-    <div class="resume-date text-md-right"><span class="text-primary">August 2006 - October 2007</span></div>
+    <div ><span >August 2006 - October 2007</span></div>
     
     </div>
     
-    <div class="resume-item d-flex flex-column flex-md-row mb-5">
     
-    <div class="resume-content mr-auto">
+    
+    <div >
     
     #### Developer (contract)
     
-    <div class="subheading mb-3">RWE nPower</div>
+    <div >RWE nPower</div>
     
     Skills: ASP.NET 2.0 , C# 2.0, SQL Server, Oracle, VisualStudio.NET 2005, Nant, NUnit, FxCop, NCover, TDD.
     
@@ -442,7 +429,7 @@ permalink: /cv/
     
     </div>
     
-    <div class="resume-date text-md-right"><span class="text-primary">February 2006 - August 2006</span></div>
+    <div ><span >February 2006 - August 2006</span></div>
     
     </div>
     
@@ -456,15 +443,15 @@ permalink: /cv/
     
     ## Ancient Experience
     
-    <div class="resume-item d-flex flex-column flex-md-row mb-5">
     
-    <div class="resume-content mr-auto">
+    
+    <div >
     
     #### Developer (contract)
     
-    <div class="subheading mb-3">Research Machines (Abingdon)</div>
+    <div >Research Machines (Abingdon)</div>
     
-    <div class="resume-date text-md-right"><span class="text-primary">Dec 2005 – Jan 2006</span></div>
+    <div ><span >Dec 2005 – Jan 2006</span></div>
     
     ASP.NET, C#, VB.NET, SQL Server, SharePoint, Active Directory, SharePoint development, writing web parts and ASP.NET pages.
     
@@ -472,15 +459,15 @@ permalink: /cv/
     
     </div>
     
-    <div class="resume-item d-flex flex-column flex-md-row mb-5">
     
-    <div class="resume-content mr-auto">
+    
+    <div >
     
     #### Developer (contract)
     
-    <div class="subheading mb-3">Blackwell Publishing (Oxford)</div>
+    <div >Blackwell Publishing (Oxford)</div>
     
-    <div class="resume-date text-md-right"><span class="text-primary">February 2005 – November 2005</span></div>
+    <div ><span >February 2005 – November 2005</span></div>
     
     ASP.NET, C#, VB.NET, SQL Server, Web Services, VisualStudio.NET, .Net Framework, CSS, XML, XSLT, NUnit, Nant, FxCop, UML, BizTalk, Agile Software Development, Ajax, Developer, Web Front end to tracking system, Web services, stored procedures, TDD, OO modelling, Application Developer.
     
@@ -488,15 +475,15 @@ permalink: /cv/
     
     </div>
     
-    <div class="resume-item d-flex flex-column flex-md-row mb-5">
     
-    <div class="resume-content mr-auto">
+    
+    <div >
     
     #### Developer (contract)
     
-    <div class="subheading mb-3">Elsevier Science (Oxford)</div>
+    <div >Elsevier Science (Oxford)</div>
     
-    <div class="resume-date text-md-right"><span class="text-primary">June 2004 – January 2005</span></div>
+    <div ><span >June 2004 – January 2005</span></div>
     
     ASP.NET, C#, SQL Server, Web Services, Windows2003/XP, VisualStudio.NET, .Net Framework, SharePoint Portal Server, Web Parts, Technical Lead, Mentor, Load Testing, Web services.
     
@@ -504,15 +491,15 @@ permalink: /cv/
     
     </div>
     
-    <div class="resume-item d-flex flex-column flex-md-row mb-5">
     
-    <div class="resume-content mr-auto">
+    
+    <div >
     
     #### Developer (contract)
     
-    <div class="subheading mb-3">Elsevier Science (Oxford)</div>
+    <div >Elsevier Science (Oxford)</div>
     
-    <div class="resume-date text-md-right"><span class="text-primary">December 2001 – June 2004</span></div>
+    <div ><span >December 2001 – June 2004</span></div>
     
     ASP.NET, C#, XML, XSL, SQL Server, SOAP, Web Services, IIS, HTML, VisualStudio.NET, JavaScript, .Net Framework, Technical Lead.
     
@@ -520,15 +507,15 @@ permalink: /cv/
     
     </div>
     
-    <div class="resume-item d-flex flex-column flex-md-row mb-5">
     
-    <div class="resume-content mr-auto">
+    
+    <div >
     
     #### Developer (contract)
     
-    <div class="subheading mb-3">Elsevier Science (Oxford)</div>
+    <div >Elsevier Science (Oxford)</div>
     
-    <div class="resume-date text-md-right"><span class="text-primary">April 2001 – December 2001</span></div>
+    <div ><span >April 2001 – December 2001</span></div>
     
     ASP, Visual Basic 6, XML, XSL, SQL Server, SOAP, Web Services, NT, IIS HTML.
     
@@ -536,15 +523,15 @@ permalink: /cv/
     
     </div>
     
-    <div class="resume-item d-flex flex-column flex-md-row mb-5">
     
-    <div class="resume-content mr-auto">
+    
+    <div >
     
     #### Developer (contract)
     
-    <div class="subheading mb-3">Achilles Information</div>
+    <div >Achilles Information</div>
     
-    <div class="resume-date text-md-right"><span class="text-primary">November 2000 – March 2001</span></div>
+    <div ><span >November 2000 – March 2001</span></div>
     
     ASP, Visual Basic 6, XML, XSL, SQL Server, SOAP, Web services, NT, IIS, HTML, RDF.
     
@@ -552,15 +539,15 @@ permalink: /cv/
     
     </div>
     
-    <div class="resume-item d-flex flex-column flex-md-row mb-5">
     
-    <div class="resume-content mr-auto">
+    
+    <div >
     
     #### Developer (contract)
     
-    <div class="subheading mb-3">DELL</div>
+    <div >DELL</div>
     
-    <div class="resume-date text-md-right"><span class="text-primary">AUGUST 2000 – NOVEMBER 2000</span></div>
+    <div ><span >AUGUST 2000 – NOVEMBER 2000</span></div>
     
     ASP, Visual Basic 6, XML, XSL, MTS, Oracle 8, NT, IIS, HTML, JavaScript, VBScript, PLSQL, Loadrunner.
     
@@ -568,15 +555,15 @@ permalink: /cv/
     
     </div>
     
-    <div class="resume-item d-flex flex-column flex-md-row mb-5">
     
-    <div class="resume-content mr-auto">
+    
+    <div >
     
     #### Developer (contract)
     
-    <div class="subheading mb-3">Informed People (Oxford)</div>
+    <div >Informed People (Oxford)</div>
     
-    <div class="resume-date text-md-right"><span class="text-primary">February 2000 – August 2000</span></div>
+    <div ><span >February 2000 – August 2000</span></div>
     
     ASP, Visual Basic 6, XML, XSL, WML, SOAP, WAP, SQL Server 7, Oracle 8i, NT, HTML, VML, JavaScript, VBScript, PLSQL.
     
@@ -584,15 +571,15 @@ permalink: /cv/
     
     </div>
     
-    <div class="resume-item d-flex flex-column flex-md-row mb-5">
     
-    <div class="resume-content mr-auto">
+    
+    <div >
     
     #### Developer (contract)
     
-    <div class="subheading mb-3">B.M.W. (GB)</div>
+    <div >B.M.W. (GB)</div>
     
-    <div class="resume-date text-md-right"><span class="text-primary">July 1999 – February 2000</span></div>
+    <div ><span >July 1999 – February 2000</span></div>
     
     VB6, ASP, PL/SQL, MTS, ADO, XML, Windows NT, Oracle8, Access, COM, HTML.
     
@@ -600,15 +587,15 @@ permalink: /cv/
     
     </div>
     
-    <div class="resume-item d-flex flex-column flex-md-row mb-5">
     
-    <div class="resume-content mr-auto">
+    
+    <div >
     
     #### Developer (contract)
     
-    <div class="subheading mb-3">Nortel Networks</div>
+    <div >Nortel Networks</div>
     
-    <div class="resume-date text-md-right"><span class="text-primary">March 1999 – June 1999</span></div>
+    <div ><span >March 1999 – June 1999</span></div>
     
     VB6, VC++, HTML, ASP, Oracel8, PL/SQL, RDO, ADO, ActiveX, COM, Visual Modeller, FrontPage, Crystal Reports.
     
@@ -616,15 +603,15 @@ permalink: /cv/
     
     </div>
     
-    <div class="resume-item d-flex flex-column flex-md-row mb-5">
     
-    <div class="resume-content mr-auto">
+    
+    <div >
     
     #### Developer (contract)
     
-    <div class="subheading mb-3">Capital One (Nottingham)</div>
+    <div >Capital One (Nottingham)</div>
     
-    <div class="resume-date text-md-right"><span class="text-primary">September 1998 – February 1999</span></div>
+    <div ><span >September 1998 – February 1999</span></div>
     
     VB6, Visual C++, PL/SQL, Oracle 8, ADO, ActiveX, COM/DCOM, OOP, Windows 95, Windows NT.
     
@@ -632,15 +619,15 @@ permalink: /cv/
     
     </div>
     
-    <div class="resume-item d-flex flex-column flex-md-row mb-5">
     
-    <div class="resume-content mr-auto">
+    
+    <div >
     
     #### Developer (contract)
     
-    <div class="subheading mb-3">A.M.S. (Dusseldorf)</div>
+    <div >A.M.S. (Dusseldorf)</div>
     
-    <div class="resume-date text-md-right"><span class="text-primary">July 1998 – August 1998</span></div>
+    <div ><span >July 1998 – August 1998</span></div>
     
     VB5, Access, SourceSafe, HTML, MS Agent, Win 95.
     
@@ -648,15 +635,15 @@ permalink: /cv/
     
     </div>
     
-    <div class="resume-item d-flex flex-column flex-md-row mb-5">
     
-    <div class="resume-content mr-auto">
+    
+    <div >
     
     #### Developer (contract)
     
-    <div class="subheading mb-3">PowerGen (Coventry)</div>
+    <div >PowerGen (Coventry)</div>
     
-    <div class="resume-date text-md-right"><span class="text-primary">April 1997 – June 1998</span></div>
+    <div ><span >April 1997 – June 1998</span></div>
     
     VB5, PLSQL, RDO, SourceSafe, Crystal reports.
     
@@ -664,15 +651,15 @@ permalink: /cv/
     
     </div>
     
-    <div class="resume-item d-flex flex-column flex-md-row mb-5">
     
-    <div class="resume-content mr-auto">
+    
+    <div >
     
     #### Developer (contract)
     
-    <div class="subheading mb-3">WS Atkins (Newport)</div>
+    <div >WS Atkins (Newport)</div>
     
-    <div class="resume-date text-md-right"><span class="text-primary">January 1997 – March 1997</span></div>
+    <div ><span >January 1997 – March 1997</span></div>
     
     VB4, Oracle, SQL, ODBC API, RDO.
     
@@ -680,15 +667,15 @@ permalink: /cv/
     
     </div>
     
-    <div class="resume-item d-flex flex-column flex-md-row mb-5">
     
-    <div class="resume-content mr-auto">
+    
+    <div >
     
     #### Developer (contract)
     
-    <div class="subheading mb-3">Windsor Life (Telford)</div>
+    <div >Windsor Life (Telford)</div>
     
-    <div class="resume-date text-md-right"><span class="text-primary">October 1996 – December 1996</span></div>
+    <div ><span >October 1996 – December 1996</span></div>
     
     VB4, Oracle, SQL, Access, PVCS, Word.
     
@@ -696,15 +683,15 @@ permalink: /cv/
     
     </div>
     
-    <div class="resume-item d-flex flex-column flex-md-row mb-5">
     
-    <div class="resume-content mr-auto">
+    
+    <div >
     
     #### Developer (contract)
     
-    <div class="subheading mb-3">C.S.C (Cambridge)</div>
+    <div >C.S.C (Cambridge)</div>
     
-    <div class="resume-date text-md-right"><span class="text-primary">February 1996 – September 1996</span></div>
+    <div ><span >February 1996 – September 1996</span></div>
     
     VB4, Access, OLE Automation, DDE, MS Project, OOP, SQL.
     
@@ -712,15 +699,15 @@ permalink: /cv/
     
     </div>
     
-    <div class="resume-item d-flex flex-column flex-md-row mb-5">
     
-    <div class="resume-content mr-auto">
+    
+    <div >
     
     #### Developer (contract)
     
-    <div class="subheading mb-3">British Gypsum</div>
+    <div >British Gypsum</div>
     
-    <div class="resume-date text-md-right"><span class="text-primary">January 1996 – February 1996</span></div>
+    <div ><span >January 1996 – February 1996</span></div>
     
     VAX COBOL, POWERHOUSE.
     
@@ -728,15 +715,15 @@ permalink: /cv/
     
     </div>
     
-    <div class="resume-item d-flex flex-column flex-md-row mb-5">
     
-    <div class="resume-content mr-auto">
+    
+    <div >
     
     #### Developer (contract)
     
-    <div class="subheading mb-3">Arjo Wiggins</div>
+    <div >Arjo Wiggins</div>
     
-    <div class="resume-date text-md-right"><span class="text-primary">May 1995 – December 1995</span></div>
+    <div ><span >May 1995 – December 1995</span></div>
     
     VAX COBOL, DECFORMS, FMS, SQL, Access.
     
@@ -744,15 +731,15 @@ permalink: /cv/
     
     </div>
     
-    <div class="resume-item d-flex flex-column flex-md-row mb-5">
     
-    <div class="resume-content mr-auto">
+    
+    <div >
     
     #### Developer (contract)
     
-    <div class="subheading mb-3">Anglia Water</div>
+    <div >Anglia Water</div>
     
-    <div class="resume-date text-md-right"><span class="text-primary">January 1995 – April 1995</span></div>
+    <div ><span >January 1995 – April 1995</span></div>
     
     Visual Basic, VAX COBOL, SQLModule.
     
@@ -760,15 +747,15 @@ permalink: /cv/
     
     </div>
     
-    <div class="resume-item d-flex flex-column flex-md-row mb-5">
     
-    <div class="resume-content mr-auto">
+    
+    <div >
     
     #### Developer (contract)
     
-    <div class="subheading mb-3">AT & T ISTEL</div>
+    <div >AT & T ISTEL</div>
     
-    <div class="resume-date text-md-right"><span class="text-primary">July 1994 – December 1994</span></div>
+    <div ><span >July 1994 – December 1994</span></div>
     
     DEC/VAX COBOL, POWERHOUSE.
     
@@ -776,15 +763,15 @@ permalink: /cv/
     
     </div>
     
-    <div class="resume-item d-flex flex-column flex-md-row mb-5">
     
-    <div class="resume-content mr-auto">
+    
+    <div >
     
     #### Developer (contract)
     
-    <div class="subheading mb-3">National Power</div>
+    <div >National Power</div>
     
-    <div class="resume-date text-md-right"><span class="text-primary">March 1993 – June 1994</span></div>
+    <div ><span >March 1993 – June 1994</span></div>
     
     VAX COBOL, VAX C, SLGMS.
     
@@ -792,15 +779,15 @@ permalink: /cv/
     
     </div>
     
-    <div class="resume-item d-flex flex-column flex-md-row mb-5">
     
-    <div class="resume-content mr-auto">
+    
+    <div >
     
     #### Developer (contract)
     
-    <div class="subheading mb-3">KPMG</div>
+    <div >KPMG</div>
     
-    <div class="resume-date text-md-right"><span class="text-primary">January 1993 – February 1993</span></div>
+    <div ><span >January 1993 – February 1993</span></div>
     
     VAX COBOL.
     
@@ -808,15 +795,15 @@ permalink: /cv/
     
     </div>
     
-    <div class="resume-item d-flex flex-column flex-md-row mb-5">
     
-    <div class="resume-content mr-auto">
+    
+    <div >
     
     #### Developer (contract)
     
-    <div class="subheading mb-3">MODO Group</div>
+    <div >MODO Group</div>
     
-    <div class="resume-date text-md-right"><span class="text-primary">July 1992 – December 1992</span></div>
+    <div ><span >July 1992 – December 1992</span></div>
     
     VAX COBOL, POWERHOUSE.
     
@@ -824,15 +811,15 @@ permalink: /cv/
     
     </div>
     
-    <div class="resume-item d-flex flex-column flex-md-row mb-5">
     
-    <div class="resume-content mr-auto">
+    
+    <div >
     
     #### Developer (contract)
     
-    <div class="subheading mb-3">AT & T ISTEL</div>
+    <div >AT & T ISTEL</div>
     
-    <div class="resume-date text-md-right"><span class="text-primary">February 1991- June 1992</span></div>
+    <div ><span >February 1991- June 1992</span></div>
     
     COBOL, POWERHOUSE.
     
@@ -840,15 +827,15 @@ permalink: /cv/
     
     </div>
     
-    <div class="resume-item d-flex flex-column flex-md-row mb-5">
     
-    <div class="resume-content mr-auto">
+    
+    <div >
     
     #### Developer (permanent)
     
-    <div class="subheading mb-3">SOVICO (France)</div>
+    <div >SOVICO (France)</div>
     
-    <div class="resume-date text-md-right"><span class="text-primary">August 1990 – January 1991</span></div>
+    <div ><span >August 1990 – January 1991</span></div>
     
     VAX COBOL, DCL.
     
@@ -856,15 +843,15 @@ permalink: /cv/
     
     </div>
     
-    <div class="resume-item d-flex flex-column flex-md-row mb-5">
     
-    <div class="resume-content mr-auto">
+    
+    <div >
     
     #### Developer (contract)
     
-    <div class="subheading mb-3">D.E.C. (France)</div>
+    <div >D.E.C. (France)</div>
     
-    <div class="resume-date text-md-right"><span class="text-primary">December 1989 – July 1990</span></div>
+    <div ><span >December 1989 – July 1990</span></div>
     
     VAX PASCAL,VAX BASIC, DCL, SQL.
     
@@ -872,15 +859,15 @@ permalink: /cv/
     
     </div>
     
-    <div class="resume-item d-flex flex-column flex-md-row mb-5">
     
-    <div class="resume-content mr-auto">
+    
+    <div >
     
     #### Developer (permanent)
     
-    <div class="subheading mb-3">Thomas Cook</div>
+    <div >Thomas Cook</div>
     
-    <div class="resume-date text-md-right"><span class="text-primary">May 1987 – December 1989</span></div>
+    <div ><span >May 1987 – December 1989</span></div>
     
     VAX BASIC, PRO IV, COBOL, DCL.
     
@@ -888,15 +875,15 @@ permalink: /cv/
     
     </div>
     
-    <div class="resume-item d-flex flex-column flex-md-row mb-5">
     
-    <div class="resume-content mr-auto">
+    
+    <div >
     
     #### Developer (permanent)
     
-    <div class="subheading mb-3">Workstations Ltd.</div>
+    <div >Workstations Ltd.</div>
     
-    <div class="resume-date text-md-right"><span class="text-primary">February 1985 – May 1987</span></div>
+    <div ><span >February 1985 – May 1987</span></div>
     
     DATAFLEX.
     
@@ -904,15 +891,15 @@ permalink: /cv/
     
     </div>
     
-    <div class="resume-item d-flex flex-column flex-md-row mb-5">
     
-    <div class="resume-content mr-auto">
+    
+    <div >
     
     #### Developer (permanent)
     
-    <div class="subheading mb-3">INTEC Ltd.</div>
+    <div >INTEC Ltd.</div>
     
-    <div class="resume-date text-md-right"><span class="text-primary">June 1984 – February 1985</span></div>
+    <div ><span >June 1984 – February 1985</span></div>
     
     BBC BASIC, 6502 Assembler.
     
@@ -932,13 +919,13 @@ permalink: /cv/
     
     ## Education
     
-    <div class="resume-item d-flex flex-column flex-md-row mb-5">
     
-    <div class="resume-content mr-auto">
+    
+    <div >
     
     ### Norwich City College
     
-    <div class="subheading mb-3">BEC TEC HND</div>
+    <div >BEC TEC HND</div>
     
     <div>Computer Studies</div>
     
@@ -948,17 +935,17 @@ permalink: /cv/
     
     </div>
     
-    <div class="resume-date text-md-right"><span class="text-primary">september 19812006 - June 1983</span></div>
+    <div ><span >september 19812006 - June 1983</span></div>
     
     </div>
     
     <div class="resume-item d-flex flex-column flex-md-row">
     
-    <div class="resume-content mr-auto">
+    <div >
     
     ### King Edward VII Upper School
     
-    <div class="subheading mb-3">A Levels, O Levels</div>
+    <div >A Levels, O Levels</div>
     
     //
     
@@ -966,7 +953,7 @@ permalink: /cv/
     
     </div>
     
-    <div class="resume-date text-md-right">//<span class="text-primary">August 2002 - May 2006</span></div>
+    <div >//<span >August 2002 - May 2006</span></div>
     
     </div>
     
@@ -982,7 +969,7 @@ permalink: /cv/
     
     ## Skills
     
-    <div class="subheading mb-3">Programming Languages & Tools</div>
+    <div >Programming Languages & Tools</div>
     
     *   _dotnet_
     *   _React_
