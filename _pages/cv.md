@@ -3,26 +3,6 @@ layout: page
 title: CV
 permalink: /cv/
 ---
-<div class="cv">
-
-    <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="sideNav">[<span class="d-block d-lg-none">Start Bootstrap</span> <span class="d-none d-lg-block">![](./content/peter.jpg) </span> ](#page-top) <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button> 
-    
-    <div class="collapse navbar-collapse" id="navbarSupportedContent">
-    
-    *   [About](#about)
-    *   [Recent Experience](#experience)
-    *   [Older Experience](#olderexperience)
-    *   [Ancient Experience](#ancientexperience)
-    
-    *   [Education](#education)
-    
-    *   [Skills](#skills)
-    *   [Interests](#interests)
-    *   [Awards](#awards)
-    
-    </div>
-    
-    </nav>
     
     <div class="container-fluid p-0">
     
