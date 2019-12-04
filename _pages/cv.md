@@ -7,17 +7,17 @@ permalink: /cv/
 
 # Peter Marshall
 
-106 Frenchay Road, Oxford, OX2 6TF, UK . [marshall.peter@gmail.com](mailto:name@email.com)
+53 Great Clarendon st, Oxford, OX2 6AX, UK . [marshall.peter@gmail.com](mailto:marshall.peter@gmail.com)
 
 Enterprise Application Developer with over 20 Years of experience as a contractor working on a wide variety of development projects. Working mostly in Public Utilities, Telecoms, Finance and Scientific Journal Publishing. Microsoft Gold Partner.
 
 Most recent skills, ASP.NET MVC, C#, SQL Server, Web Services, Visual Studio, Agile, Scrum, REST, LINQ, TDD, BDD, EF. Javascript, Angular, React
 
-*   (http://peter.withknown.com)
-*   (https://twitter.com/petermarshall)
-*   (https://linkedin.com/in/thebestdevyouwilleverfind)
-*   (https://stackoverflow.com/users/4692/peter-marshall)
-*   (http://www.mycertprofile.com/Profile/9843288887)
+*   [Personal Blog](http://peter.withknown.com)
+*   [Twitter](https://twitter.com/petermarshall)
+*   [LinkedIn](https://linkedin.com/in/thebestdevyouwilleverfind)
+*   [Stackoverflow](https://stackoverflow.com/users/4692/peter-marshall)
+*   [MS Certification](http://www.mycertprofile.com/Profile/9843288887)
 
 
 
