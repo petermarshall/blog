@@ -22,14 +22,14 @@ Most recent skills, ASP.NET MVC, C#, SQL Server, Web Services, Visual Studio, Ag
 
 
 
-## Recent Experience
+# Recent Experience
 
 
 
 #### Senior Developer (contract)
 
-UKSBS (Swindon)
-
+## UKSBS (Swindon) 
+*November 2018 - present*
 Skills: DOTNET CORE, ASP.NET MVC, WEB API, C#, JavaScript, AWS, Micro services, Postgresql, Git, TDD, scrum, Okta, Jenkins
 
 Developing a replacement for the clients grants system.
@@ -40,7 +40,7 @@ Writing code across the full stack, some of these modules were very complex inde
 
 
 
-November 2018 - present
+
 
 
 
@@ -49,8 +49,8 @@ November 2018 - present
 
 #### Senior Developer (contract)
 
-Schroders Asset Management (Luxembourg)
-
+## Schroders Asset Management (Luxembourg)
+*July 2018 - October 2018*
 Skills: ASP.NET MVC, WEB API, C#, JavaScript, Azure, Service Fabric, React, Sql Server, GraphQl, NodeJS, TFS, TDD, scrum, Octopus Deploy
 
 Developing api end points to serve up clients data though services deployed on azure service fabric.
@@ -61,7 +61,7 @@ The project was to supply a single source of truth for Schroders reporting data,
 
 
 
-July 2018 - October 2018
+
 
 
 
@@ -71,8 +71,8 @@ July 2018 - October 2018
 
 #### Developer (contract)
 
-Sunquest Information Systems
-
+## Sunquest Information Systems
+*July 2017 - July 2018*
 Skills: ASP.NET MVC, WEB API, C#, JavaScript, Angular, Sql Server, TFS, TDD, scrum, Entity Framework.
 
 Working right across this clients stack, from client side JavaScript (Angular), Server side code in C# and stored procedures in T-SQL on the Sql Server Database.
@@ -85,7 +85,7 @@ Acting as scrum master and scrum mentor when required, specifically in leading t
 
 
 
-July 2017 - July 2018
+
 
 
 
@@ -95,8 +95,8 @@ July 2017 - July 2018
 
 #### Developer (contract)
 
-JP Morgan
-
+## JP Morgan
+*March 2017 - July 2017*
 Skills: ASP.NET MVC, WEB API, C#, Javascript, typescript, Angular, Sql Server, Git, TDD, splunk, windows services, powershell, Jenkins.
 
 Developing Application Compute Cloud. An internal application to manage virtual machines running on the custom JP Morgan Cloud infrastructure.
@@ -111,7 +111,7 @@ Maintaining the continuous integration and deployment through Jenkins, writing s
 
 
 
-March 2017 - July 2017
+
 
 
 
@@ -121,8 +121,8 @@ March 2017 - July 2017
 
 #### Developer (contract)
 
-UCAS
-
+## UCAS
+*March 2015 - February 2017*
 Skills: ASP.NET MVC, WEB API, C#, Javascript, Angular, MySql, Git, NEventStore, Dapper, ElasticSearch, CQRS, AWS, Postgres, Fluent Migrator, MSPec, Scrum, TDD.
 
 Working as part of the Digital Acceleration team to completely re-write the online presence of this well respected public institution. This was a very big project with multiple scrum teams and a huge technology stack. Atlassian products were used to manage the development such as Bamboo, Jira, Bitbucket, Confluence and Hipchat.
@@ -135,7 +135,7 @@ In this contract I had to constantly learn new technologies and pushed my fronti
 
 
 
-March 2015 - February 2017
+
 
 
 
@@ -145,8 +145,8 @@ March 2015 - February 2017
 
 #### Developer (contract)
 
-Royal Horticultural Society
-
+## Royal Horticultural Society
+*August 2014 - February 2015*
 Skills: ASP.NET MVC 5.0, WEB.API 2.0, C#, Javascript, SQL Server, TDD, MOQ, TFS, Angular, Bootstrap.
 
 This was a full stack role working in a small team using a scrum process to develop a Customer Relationship Management System, from the ground up.
@@ -155,7 +155,7 @@ I was creating views and directives for this SPA. Working in HTML and javascript
 
 
 
-August 2014 - February 2015
+
 
 
 
@@ -165,7 +165,8 @@ August 2014 - February 2015
 
 #### Developer (contract)
 
-CPA Global
+## CPA Global
+*January 2014 - July 2014*
 
 Skills: ASP.NET MVC 4, WEB.API, C#, Javascript, SQL Server, Oracle, Telerik Open Access, TDD, BDD, StoryQ, SVN, MOQ, Angular.js, Automapper, JIRA.
 
@@ -175,7 +176,6 @@ Worked on features for the next version of the clients IP rights management soft
 
 
 
-January 2014 - July 2014
 
 
 
@@ -185,7 +185,8 @@ January 2014 - July 2014
 
 #### Developer (contract)
 
-JP Morgan Chase
+## JP Morgan Chase
+*August 2011 - December 2013*
 
 Skills: ASP.NET MVC 3/4, C#, Razor, Javascript, SQL Server, Oracle, Entity Framework, WCF, .NET 4.5, TDD, MOQ, JQuery, Knockout.js, QPID, SPA, scrum, jira, cruisecontrol, svn.
 
@@ -201,7 +202,6 @@ Developed server side components using WebAPI in ASP.NET MVC 4, using JSON to co
 
 
 
-August 2011 - December 2013
 
 
 
@@ -218,7 +218,8 @@ August 2011 - December 2013
 
 #### Developer (contract)
 
-Doctors Chambers
+## Doctors Chambers
+*Febuary 2011 - July 2011*
 
 Skills: Silverlight, MVVMLight, WCF, ASP.NET, C#, SQL Server, .NET 4, TDD, SVN, Blend, Entity Framework, LINQ, WPF, Interlinq (RIA Services), MOQ, SQl Server Service Broker.
 
@@ -232,7 +233,6 @@ Extracting business processes into WCF services.
 
 
 
-Ferurayr 2011 - July 2011
 
 
 
@@ -242,7 +242,8 @@ Ferurayr 2011 - July 2011
 
 #### Developer (contract)
 
-Reed Business Information
+## Reed Business Information
+*August 2010 - Janunary 2011*
 
 Skills: WCF, ASP.NET, C#, SQL Server, .NET 3.5, TDD, MOQ, SSIS, Ecommerce, TFS, ELMAH, watin.
 
@@ -256,7 +257,6 @@ Implemented ELMAH as a unified logging system, across ASP.NET sites and WCF serv
 
 
 
-August 2010 - Janunary 2011
 
 
 
@@ -266,7 +266,8 @@ August 2010 - Janunary 2011
 
 #### Developer (contract)
 
-Big Pink New Media
+## Big Pink New Media
+*January 2010 - July 2010*
 
 Skills: ASP.NET MVC 2, C#, SQL Server, NHibernate, .NET 3.5, JQuery, Ninject, JSONP, TDD, MOQ, scrum, StoryQ, Sharepoint, Pair Programming.
 
@@ -284,7 +285,6 @@ This was a scrum driven project to develop analytics services for pharmaceutical
 
 
 
-January 2010 - July 2010
 
 
 
@@ -294,7 +294,8 @@ January 2010 - July 2010
 
 #### Developer (contract)
 
-Formula One Management
+## Formula One Management
+*September 2009 - January 2010*
 
 Skills: ASP.NET MVC, JQuery, C#, SQL Server, Linq to Sql, .NET 3.5, TDD, MOQ, scrum, Excel, DOCX.
 
@@ -310,7 +311,6 @@ A significant output from this project was a web design template illustrating be
 
 
 
-September 2009 - January 2010
 
 
 
@@ -320,7 +320,8 @@ September 2009 - January 2010
 
 #### Developer (contract)
 
-IDOX Group Plc
+## IDOX Group Plc
+*December 2008 - August 2009*
 
 Skills: C#, Oracle, Visual Studio, ASP.NET, NUnit, NHibernate (ORM), Web Services, WSDL, TDD, PLSQL, Perforce.
 
@@ -330,7 +331,6 @@ Interacting with end users and consultancies to architect appropriate solutions.
 
 
 
-December 2008 - August 2009
 
 
 
@@ -340,15 +340,15 @@ December 2008 - August 2009
 
 #### Developer (contract)
 
-CDC Respond
+## CDC Respond
+*August 2008 - November 2008*
 
 Skills: C# 3.0 .NET 3.5, SQL Server, Team Foundation Server, WPF, WCF, LINQ. TDD.
 
- Working from detailed specifications as part of a large development team. Writing web services code (WCF), and client side user interface code (WPF), to bring clients application up to date. Cleared defect backlog to hit zero bug bounce prior to releasing code to manufacture.
+Working from detailed specifications as part of a large development team. Writing web services code (WCF), and client side user interface code (WPF), to bring clients application up to date. Cleared defect backlog to hit zero bug bounce prior to releasing code to manufacture.
 
 
 
-August 2008 - November 2008
 
 
 
@@ -358,7 +358,8 @@ August 2008 - November 2008
 
 #### Developer (contract)
 
-Pearson (Oxford)
+## Pearson (Oxford)
+*November 2007 - July 2008*
 
 Skills: ASP.NET MVC, C#, Silverlight, XAML, SQL Server, VisualStudio.NET, TeamCity, REST, NUnit, TDD, watin, Selenium, Subversion, pair programming.
 
@@ -374,7 +375,6 @@ Responsible for sprint metrics such as code coverage, unit test completion and b
 
 
 
-November 2007 - July 2008
 
 
 
@@ -384,7 +384,8 @@ November 2007 - July 2008
 
 #### Developer (contract)
 
-OPP (Oxford)
+## OPP (Oxford)
+*August 2006 - October 2007*
 
 Skills: ASP.NET 2.0 , C# 2.0, SQL Server 2005, VisualStudio.NET 2005, Windows Forms.
 
@@ -400,7 +401,6 @@ Working in a very small team within an innovative web based company. The contrac
 
 
 
-August 2006 - October 2007
 
 
 
@@ -410,7 +410,8 @@ August 2006 - October 2007
 
 #### Developer (contract)
 
-RWE nPower
+## RWE nPower
+*February 2006 - August 2006*
 
 Skills: ASP.NET 2.0 , C# 2.0, SQL Server, Oracle, VisualStudio.NET 2005, Nant, NUnit, FxCop, NCover, TDD.
 
@@ -426,15 +427,9 @@ Providing a lead on agile development practices and creating project environment
 
 
 
-February 2006 - August 2006
 
 
 
-
-
-
-
-<section class="resume-section p-3 p-lg-5 d-flex flex-column" id="ancientexperience">
 
 
 
@@ -446,9 +441,9 @@ February 2006 - August 2006
 
 #### Developer (contract)
 
-Research Machines (Abingdon)
+## Research Machines (Abingdon)
 
-Dec 2005 – Jan 2006
+*Dec 2005 – Jan 2006*
 
 ASP.NET, C#, VB.NET, SQL Server, SharePoint, Active Directory, SharePoint development, writing web parts and ASP.NET pages.
 
@@ -462,9 +457,9 @@ ASP.NET, C#, VB.NET, SQL Server, SharePoint, Active Directory, SharePoint develo
 
 #### Developer (contract)
 
-Blackwell Publishing (Oxford)
+## Blackwell Publishing (Oxford)
 
-February 2005 – November 2005
+*February 2005 – November 2005*
 
 ASP.NET, C#, VB.NET, SQL Server, Web Services, VisualStudio.NET, .Net Framework, CSS, XML, XSLT, NUnit, Nant, FxCop, UML, BizTalk, Agile Software Development, Ajax, Developer, Web Front end to tracking system, Web services, stored procedures, TDD, OO modelling, Application Developer.
 
@@ -478,9 +473,9 @@ ASP.NET, C#, VB.NET, SQL Server, Web Services, VisualStudio.NET, .Net Framework,
 
 #### Developer (contract)
 
-Elsevier Science (Oxford)
+## Elsevier Science (Oxford)
 
-June 2004 – January 2005
+*June 2004 – January 2005*
 
 ASP.NET, C#, SQL Server, Web Services, Windows2003/XP, VisualStudio.NET, .Net Framework, SharePoint Portal Server, Web Parts, Technical Lead, Mentor, Load Testing, Web services.
 
@@ -494,9 +489,9 @@ ASP.NET, C#, SQL Server, Web Services, Windows2003/XP, VisualStudio.NET, .Net Fr
 
 #### Developer (contract)
 
-Elsevier Science (Oxford)
+## Elsevier Science (Oxford)
 
-December 2001 – June 2004
+*December 2001 – June 2004*
 
 ASP.NET, C#, XML, XSL, SQL Server, SOAP, Web Services, IIS, HTML, VisualStudio.NET, JavaScript, .Net Framework, Technical Lead.
 
@@ -510,9 +505,9 @@ ASP.NET, C#, XML, XSL, SQL Server, SOAP, Web Services, IIS, HTML, VisualStudio.N
 
 #### Developer (contract)
 
-Elsevier Science (Oxford)
+## Elsevier Science (Oxford)
 
-April 2001 – December 2001
+*April 2001 – December 2001*
 
 ASP, Visual Basic 6, XML, XSL, SQL Server, SOAP, Web Services, NT, IIS HTML.
 
@@ -526,9 +521,9 @@ ASP, Visual Basic 6, XML, XSL, SQL Server, SOAP, Web Services, NT, IIS HTML.
 
 #### Developer (contract)
 
-Achilles Information
+## Achilles Information
 
-November 2000 – March 2001
+*November 2000 – March 2001*
 
 ASP, Visual Basic 6, XML, XSL, SQL Server, SOAP, Web services, NT, IIS, HTML, RDF.
 
@@ -542,9 +537,9 @@ ASP, Visual Basic 6, XML, XSL, SQL Server, SOAP, Web services, NT, IIS, HTML, RD
 
 #### Developer (contract)
 
-DELL
+## DELL
 
-AUGUST 2000 – NOVEMBER 2000
+*AUGUST 2000 – NOVEMBER 2000*
 
 ASP, Visual Basic 6, XML, XSL, MTS, Oracle 8, NT, IIS, HTML, JavaScript, VBScript, PLSQL, Loadrunner.
 
@@ -558,9 +553,9 @@ ASP, Visual Basic 6, XML, XSL, MTS, Oracle 8, NT, IIS, HTML, JavaScript, VBScrip
 
 #### Developer (contract)
 
-Informed People (Oxford)
+## Informed People (Oxford)
 
-February 2000 – August 2000
+*February 2000 – August 2000*
 
 ASP, Visual Basic 6, XML, XSL, WML, SOAP, WAP, SQL Server 7, Oracle 8i, NT, HTML, VML, JavaScript, VBScript, PLSQL.
 
@@ -574,9 +569,9 @@ ASP, Visual Basic 6, XML, XSL, WML, SOAP, WAP, SQL Server 7, Oracle 8i, NT, HTML
 
 #### Developer (contract)
 
-B.M.W. (GB)
+## B.M.W. (GB)
 
-July 1999 – February 2000
+*July 1999 – February 2000*
 
 VB6, ASP, PL/SQL, MTS, ADO, XML, Windows NT, Oracle8, Access, COM, HTML.
 
@@ -590,9 +585,9 @@ VB6, ASP, PL/SQL, MTS, ADO, XML, Windows NT, Oracle8, Access, COM, HTML.
 
 #### Developer (contract)
 
-Nortel Networks
+## Nortel Networks
 
-March 1999 – June 1999
+*March 1999 – June 1999*
 
 VB6, VC++, HTML, ASP, Oracel8, PL/SQL, RDO, ADO, ActiveX, COM, Visual Modeller, FrontPage, Crystal Reports.
 
@@ -606,9 +601,9 @@ VB6, VC++, HTML, ASP, Oracel8, PL/SQL, RDO, ADO, ActiveX, COM, Visual Modeller, 
 
 #### Developer (contract)
 
-Capital One (Nottingham)
+## Capital One (Nottingham)
 
-September 1998 – February 1999
+*September 1998 – February 1999*
 
 VB6, Visual C++, PL/SQL, Oracle 8, ADO, ActiveX, COM/DCOM, OOP, Windows 95, Windows NT.
 
@@ -622,9 +617,9 @@ VB6, Visual C++, PL/SQL, Oracle 8, ADO, ActiveX, COM/DCOM, OOP, Windows 95, Wind
 
 #### Developer (contract)
 
-A.M.S. (Dusseldorf)
+## A.M.S. (Dusseldorf)
 
-July 1998 – August 1998
+*July 1998 – August 1998*
 
 VB5, Access, SourceSafe, HTML, MS Agent, Win 95.
 
@@ -638,9 +633,9 @@ VB5, Access, SourceSafe, HTML, MS Agent, Win 95.
 
 #### Developer (contract)
 
-PowerGen (Coventry)
+## PowerGen (Coventry)
 
-April 1997 – June 1998
+*April 1997 – June 1998*
 
 VB5, PLSQL, RDO, SourceSafe, Crystal reports.
 
@@ -654,9 +649,9 @@ VB5, PLSQL, RDO, SourceSafe, Crystal reports.
 
 #### Developer (contract)
 
-WS Atkins (Newport)
+## WS Atkins (Newport)
 
-January 1997 – March 1997
+*January 1997 – March 1997*
 
 VB4, Oracle, SQL, ODBC API, RDO.
 
@@ -670,9 +665,9 @@ VB4, Oracle, SQL, ODBC API, RDO.
 
 #### Developer (contract)
 
-Windsor Life (Telford)
+## Windsor Life (Telford)
 
-October 1996 – December 1996
+*October 1996 – December 1996*
 
 VB4, Oracle, SQL, Access, PVCS, Word.
 
@@ -686,9 +681,9 @@ VB4, Oracle, SQL, Access, PVCS, Word.
 
 #### Developer (contract)
 
-C.S.C (Cambridge)
+## C.S.C (Cambridge)
 
-February 1996 – September 1996
+*February 1996 – September 1996*
 
 VB4, Access, OLE Automation, DDE, MS Project, OOP, SQL.
 
@@ -702,9 +697,9 @@ VB4, Access, OLE Automation, DDE, MS Project, OOP, SQL.
 
 #### Developer (contract)
 
-British Gypsum
+## British Gypsum
 
-January 1996 – February 1996
+*January 1996 – February 1996*
 
 VAX COBOL, POWERHOUSE.
 
@@ -718,9 +713,9 @@ VAX COBOL, POWERHOUSE.
 
 #### Developer (contract)
 
-Arjo Wiggins
+## Arjo Wiggins
 
-May 1995 – December 1995
+*May 1995 – December 1995*
 
 VAX COBOL, DECFORMS, FMS, SQL, Access.
 
@@ -734,9 +729,9 @@ VAX COBOL, DECFORMS, FMS, SQL, Access.
 
 #### Developer (contract)
 
-Anglia Water
+## Anglia Water
 
-January 1995 – April 1995
+*January 1995 – April 1995*
 
 Visual Basic, VAX COBOL, SQLModule.
 
@@ -750,9 +745,9 @@ Visual Basic, VAX COBOL, SQLModule.
 
 #### Developer (contract)
 
-AT & T ISTEL
+## AT & T ISTEL
 
-July 1994 – December 1994
+*July 1994 – December 1994*
 
 DEC/VAX COBOL, POWERHOUSE.
 
@@ -766,9 +761,9 @@ DEC/VAX COBOL, POWERHOUSE.
 
 #### Developer (contract)
 
-National Power
+## National Power
 
-March 1993 – June 1994
+*March 1993 – June 1994*
 
 VAX COBOL, VAX C, SLGMS.
 
@@ -782,9 +777,9 @@ VAX COBOL, VAX C, SLGMS.
 
 #### Developer (contract)
 
-KPMG
+## KPMG
 
-January 1993 – February 1993
+*January 1993 – February 1993*
 
 VAX COBOL.
 
@@ -798,9 +793,9 @@ VAX COBOL.
 
 #### Developer (contract)
 
-MODO Group
+## MODO Group
 
-July 1992 – December 1992
+*July 1992 – December 1992*
 
 VAX COBOL, POWERHOUSE.
 
@@ -814,9 +809,9 @@ VAX COBOL, POWERHOUSE.
 
 #### Developer (contract)
 
-AT & T ISTEL
+## AT & T ISTEL
 
-February 1991- June 1992
+*February 1991- June 1992*
 
 COBOL, POWERHOUSE.
 
@@ -830,9 +825,9 @@ COBOL, POWERHOUSE.
 
 #### Developer (permanent)
 
-SOVICO (France)
+## SOVICO (France)
 
-August 1990 – January 1991
+*August 1990 – January 1991*
 
 VAX COBOL, DCL.
 
@@ -846,9 +841,9 @@ VAX COBOL, DCL.
 
 #### Developer (contract)
 
-D.E.C. (France)
+## D.E.C. (France)
 
-December 1989 – July 1990
+*December 1989 – July 1990*
 
 VAX PASCAL,VAX BASIC, DCL, SQL.
 
@@ -862,9 +857,9 @@ VAX PASCAL,VAX BASIC, DCL, SQL.
 
 #### Developer (permanent)
 
-Thomas Cook
+## Thomas Cook
 
-May 1987 – December 1989
+*May 1987 – December 1989*
 
 VAX BASIC, PRO IV, COBOL, DCL.
 
@@ -878,9 +873,9 @@ VAX BASIC, PRO IV, COBOL, DCL.
 
 #### Developer (permanent)
 
-Workstations Ltd.
+## Workstations Ltd.
 
-February 1985 – May 1987
+*February 1985 – May 1987*
 
 DATAFLEX.
 
@@ -894,9 +889,9 @@ DATAFLEX.
 
 #### Developer (permanent)
 
-INTEC Ltd.
+## INTEC Ltd.
 
-June 1984 – February 1985
+*June 1984 – February 1985*
 
 BBC BASIC, 6502 Assembler.
 
@@ -909,22 +904,11 @@ BBC BASIC, 6502 Assembler.
 ## Education
 
 
-
-
-
 ### Norwich City College
 
-BEC TEC HND
+## BEC TEC HND Computer Studies
 
-Computer Studies
-
-//
-
-GPA: 3.23
-
-
-
-september 19812006 - June 1983
+*september 1981 - June 1983*
 
 
 
@@ -934,14 +918,6 @@ september 19812006 - June 1983
 ### King Edward VII Upper School
 
 A Levels, O Levels
-
-//
-
-GPA: 3.56
-
-
-
-//August 2002 - May 2006
 
 
 
