@@ -5,9 +5,9 @@ permalink: /cv/
 ---
 
     
-    # Peter <span >Marshall</span>
+    # Peter Marshall
     
-    <div>106 Frenchay Road, Oxford, OX2 6TF, UK . [marshall.peter@gmail.com](mailto:name@email.com)</div>
+    106 Frenchay Road, Oxford, OX2 6TF, UK . [marshall.peter@gmail.com](mailto:name@email.com)
     
     Enterprise Application Developer with over 20 Years of experience as a contractor working on a wide variety of development projects. Working mostly in Public Utilities, Telecoms, Finance and Scientific Journal Publishing. Microsoft Gold Partner.
     
@@ -28,7 +28,7 @@ permalink: /cv/
     
     #### Senior Developer (contract)
     
-    <div>UKSBS (Swindon)</div>
+    UKSBS (Swindon)
     
     Skills: DOTNET CORE, ASP.NET MVC, WEB API, C#, JavaScript, AWS, Micro services, Postgresql, Git, TDD, scrum, Okta, Jenkins
     
@@ -40,16 +40,16 @@ permalink: /cv/
     
 
     
-    <div><span >November 2018 - present</span></div>
+    November 2018 - present
     
     
     
     
-    <div>
+    
     
     #### Senior Developer (contract)
     
-    <div>Schroders Asset Management (Luxembourg)</div>
+    Schroders Asset Management (Luxembourg)
     
     Skills: ASP.NET MVC, WEB API, C#, JavaScript, Azure, Service Fabric, React, Sql Server, GraphQl, NodeJS, TFS, TDD, scrum, Octopus Deploy
     
@@ -59,19 +59,19 @@ permalink: /cv/
     
     The project was to supply a single source of truth for Schroders reporting data, as part of their digital strategy.
     
-    </div>
     
-    <div ><span >July 2018 - October 2018</span></div>
     
-    </div>
+    July 2018 - October 2018
     
     
     
-    <div >
+    
+    
+    
     
     #### Developer (contract)
     
-    <div >Sunquest Information Systems</div>
+    Sunquest Information Systems
     
     Skills: ASP.NET MVC, WEB API, C#, JavaScript, Angular, Sql Server, TFS, TDD, scrum, Entity Framework.
     
@@ -83,19 +83,19 @@ permalink: /cv/
     
     Acting as scrum master and scrum mentor when required, specifically in leading the retrospectives.
     
-    </div>
     
-    <div ><span >July 2017 - July 2018</span></div>
     
-    </div>
+    July 2017 - July 2018
     
     
     
-    <div >
+    
+    
+    
     
     #### Developer (contract)
     
-    <div >JP Morgan</div>
+    JP Morgan
     
     Skills: ASP.NET MVC, WEB API, C#, Javascript, typescript, Angular, Sql Server, Git, TDD, splunk, windows services, powershell, Jenkins.
     
@@ -109,19 +109,19 @@ permalink: /cv/
     
     Maintaining the continuous integration and deployment through Jenkins, writing scripts in powershell.
     
-    </div>
     
-    <div ><span >March 2017 - July 2017</span></div>
     
-    </div>
+    March 2017 - July 2017
     
     
     
-    <div >
+    
+    
+    
     
     #### Developer (contract)
     
-    <div >UCAS</div>
+    UCAS
     
     Skills: ASP.NET MVC, WEB API, C#, Javascript, Angular, MySql, Git, NEventStore, Dapper, ElasticSearch, CQRS, AWS, Postgres, Fluent Migrator, MSPec, Scrum, TDD.
     
@@ -133,19 +133,19 @@ permalink: /cv/
     
     In this contract I had to constantly learn new technologies and pushed my frontiers of knowledge into new areas such as document databases and AWS.
     
-    </div>
     
-    <div ><span >March 2015 - February 2017</span></div>
     
-    </div>
+    March 2015 - February 2017
     
     
     
-    <div >
+    
+    
+    
     
     #### Developer (contract)
     
-    <div >Royal Horticultural Society</div>
+    Royal Horticultural Society
     
     Skills: ASP.NET MVC 5.0, WEB.API 2.0, C#, Javascript, SQL Server, TDD, MOQ, TFS, Angular, Bootstrap.
     
@@ -153,19 +153,19 @@ permalink: /cv/
     
     I was creating views and directives for this SPA. Working in HTML and javascript on the client side, creating controller code in the WEB.API layer in C# and writing WCF services. Also, db design and code of repository and data access layer, using linq and entity framework.
     
-    </div>
     
-    <div ><span >August 2014 - February 2015</span></div>
     
-    </div>
+    August 2014 - February 2015
     
     
     
-    <div >
+    
+    
+    
     
     #### Developer (contract)
     
-    <div >CPA Global</div>
+    CPA Global
     
     Skills: ASP.NET MVC 4, WEB.API, C#, Javascript, SQL Server, Oracle, Telerik Open Access, TDD, BDD, StoryQ, SVN, MOQ, Angular.js, Automapper, JIRA.
     
@@ -173,19 +173,19 @@ permalink: /cv/
     
     Worked on features for the next version of the clients IP rights management software, writing c# on the server side.
     
-    </div>
     
-    <div ><span >January 2014 - July 2014</span></div>
     
-    </div>
+    January 2014 - July 2014
     
     
     
-    <div >
+    
+    
+    
     
     #### Developer (contract)
     
-    <div >JP Morgan Chase</div>
+    JP Morgan Chase
     
     Skills: ASP.NET MVC 3/4, C#, Razor, Javascript, SQL Server, Oracle, Entity Framework, WCF, .NET 4.5, TDD, MOQ, JQuery, Knockout.js, QPID, SPA, scrum, jira, cruisecontrol, svn.
     
@@ -199,29 +199,26 @@ permalink: /cv/
     
     Developed server side components using WebAPI in ASP.NET MVC 4, using JSON to communicate with client side SPA.
     
-    </div>
     
-    <div ><span >August 2011 - December 2013</span></div>
     
-    </div>
+    August 2011 - December 2013
     
-    </div>
     
-    </section>
     
-    <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="olderexperience">
     
-    <div class="my-auto">
+
+    
+    
     
     ## Older Experience
     
     
     
-    <div >
+    
     
     #### Developer (contract)
     
-    <div >Doctors Chambers</div>
+    Doctors Chambers
     
     Skills: Silverlight, MVVMLight, WCF, ASP.NET, C#, SQL Server, .NET 4, TDD, SVN, Blend, Entity Framework, LINQ, WPF, Interlinq (RIA Services), MOQ, SQl Server Service Broker.
     
@@ -233,19 +230,19 @@ permalink: /cv/
     
     Extracting business processes into WCF services.
     
-    </div>
     
-    <div ><span >Ferurayr 2011 - July 2011</span></div>
     
-    </div>
+    Ferurayr 2011 - July 2011
     
     
     
-    <div >
+    
+    
+    
     
     #### Developer (contract)
     
-    <div >Reed Business Information</div>
+    Reed Business Information
     
     Skills: WCF, ASP.NET, C#, SQL Server, .NET 3.5, TDD, MOQ, SSIS, Ecommerce, TFS, ELMAH, watin.
     
@@ -257,19 +254,19 @@ permalink: /cv/
     
     Implemented ELMAH as a unified logging system, across ASP.NET sites and WCF services.
     
-    </div>
     
-    <div ><span >August 2010 - Janunary 2011</span></div>
     
-    </div>
+    August 2010 - Janunary 2011
     
     
     
-    <div >
+    
+    
+    
     
     #### Developer (contract)
     
-    <div >Big Pink New Media</div>
+    Big Pink New Media
     
     Skills: ASP.NET MVC 2, C#, SQL Server, NHibernate, .NET 3.5, JQuery, Ninject, JSONP, TDD, MOQ, scrum, StoryQ, Sharepoint, Pair Programming.
     
@@ -285,19 +282,19 @@ permalink: /cv/
     
     This was a scrum driven project to develop analytics services for pharmaceutical websites developed by a well respected new media agency. Working in a small team my role included code review, design, and refactoring.
     
-    </div>
     
-    <div ><span >January 2010 - July 2010</span></div>
     
-    </div>
+    January 2010 - July 2010
     
     
     
-    <div >
+    
+    
+    
     
     #### Developer (contract)
     
-    <div >Formula One Management</div>
+    Formula One Management
     
     Skills: ASP.NET MVC, JQuery, C#, SQL Server, Linq to Sql, .NET 3.5, TDD, MOQ, scrum, Excel, DOCX.
     
@@ -311,19 +308,19 @@ permalink: /cv/
     
     A significant output from this project was a web design template illustrating best practices that the client could go on to use for future projects.
     
-    </div>
     
-    <div ><span >September 2009 - January 2010</span></div>
     
-    </div>
+    September 2009 - January 2010
     
     
     
-    <div >
+    
+    
+    
     
     #### Developer (contract)
     
-    <div >IDOX Group Plc</div>
+    IDOX Group Plc
     
     Skills: C#, Oracle, Visual Studio, ASP.NET, NUnit, NHibernate (ORM), Web Services, WSDL, TDD, PLSQL, Perforce.
     
@@ -331,37 +328,37 @@ permalink: /cv/
     
     Interacting with end users and consultancies to architect appropriate solutions.
     
-    </div>
     
-    <div ><span >December 2008 - August 2009</span></div>
     
-    </div>
+    December 2008 - August 2009
     
     
     
-    <div >
+    
+    
+    
     
     #### Developer (contract)
     
-    <div >CDC Respond</div>
+    CDC Respond
     
     Skills: C# 3.0 .NET 3.5, SQL Server, Team Foundation Server, WPF, WCF, LINQ. TDD.
     
      Working from detailed specifications as part of a large development team. Writing web services code (WCF), and client side user interface code (WPF), to bring clients application up to date. Cleared defect backlog to hit zero bug bounce prior to releasing code to manufacture.
     
-    </div>
     
-    <div ><span >August 2008 - November 2008</span></div>
     
-    </div>
+    August 2008 - November 2008
     
     
     
-    <div >
+    
+    
+    
     
     #### Developer (contract)
     
-    <div >Pearson (Oxford)</div>
+    Pearson (Oxford)
     
     Skills: ASP.NET MVC, C#, Silverlight, XAML, SQL Server, VisualStudio.NET, TeamCity, REST, NUnit, TDD, watin, Selenium, Subversion, pair programming.
     
@@ -375,19 +372,19 @@ permalink: /cv/
     
     Responsible for sprint metrics such as code coverage, unit test completion and bug tracking.
     
-    </div>
     
-    <div ><span >November 2007 - July 2008</span></div>
     
-    </div>
+    November 2007 - July 2008
     
     
     
-    <div >
+    
+    
+    
     
     #### Developer (contract)
     
-    <div >OPP (Oxford)</div>
+    OPP (Oxford)
     
     Skills: ASP.NET 2.0 , C# 2.0, SQL Server 2005, VisualStudio.NET 2005, Windows Forms.
     
@@ -401,19 +398,19 @@ permalink: /cv/
     
     Working in a very small team within an innovative web based company. The contract was renewed several times.
     
-    </div>
     
-    <div ><span >August 2006 - October 2007</span></div>
     
-    </div>
+    August 2006 - October 2007
     
     
     
-    <div >
+    
+    
+    
     
     #### Developer (contract)
     
-    <div >RWE nPower</div>
+    RWE nPower
     
     Skills: ASP.NET 2.0 , C# 2.0, SQL Server, Oracle, VisualStudio.NET 2005, Nant, NUnit, FxCop, NCover, TDD.
     
@@ -427,549 +424,535 @@ permalink: /cv/
     
     Providing a lead on agile development practices and creating project environments with .NET. Providing standards documents and documentation of recommended practices.
     
-    </div>
     
-    <div ><span >February 2006 - August 2006</span></div>
     
-    </div>
+    February 2006 - August 2006
     
-    </div>
     
-    </section>
+    
+    
+    
+    
     
     <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="ancientexperience">
     
-    <div class="my-auto">
+    
     
     ## Ancient Experience
     
     
     
-    <div >
+    
     
     #### Developer (contract)
     
-    <div >Research Machines (Abingdon)</div>
+    Research Machines (Abingdon)
     
-    <div ><span >Dec 2005 – Jan 2006</span></div>
+    Dec 2005 – Jan 2006
     
     ASP.NET, C#, VB.NET, SQL Server, SharePoint, Active Directory, SharePoint development, writing web parts and ASP.NET pages.
     
-    </div>
-    
-    </div>
     
     
     
-    <div >
+    
+    
+    
+    
     
     #### Developer (contract)
     
-    <div >Blackwell Publishing (Oxford)</div>
+    Blackwell Publishing (Oxford)
     
-    <div ><span >February 2005 – November 2005</span></div>
+    February 2005 – November 2005
     
     ASP.NET, C#, VB.NET, SQL Server, Web Services, VisualStudio.NET, .Net Framework, CSS, XML, XSLT, NUnit, Nant, FxCop, UML, BizTalk, Agile Software Development, Ajax, Developer, Web Front end to tracking system, Web services, stored procedures, TDD, OO modelling, Application Developer.
     
-    </div>
-    
-    </div>
     
     
     
-    <div >
+    
+    
+    
+    
     
     #### Developer (contract)
     
-    <div >Elsevier Science (Oxford)</div>
+    Elsevier Science (Oxford)
     
-    <div ><span >June 2004 – January 2005</span></div>
+    June 2004 – January 2005
     
     ASP.NET, C#, SQL Server, Web Services, Windows2003/XP, VisualStudio.NET, .Net Framework, SharePoint Portal Server, Web Parts, Technical Lead, Mentor, Load Testing, Web services.
     
-    </div>
-    
-    </div>
     
     
     
-    <div >
+    
+    
+    
+    
     
     #### Developer (contract)
     
-    <div >Elsevier Science (Oxford)</div>
+    Elsevier Science (Oxford)
     
-    <div ><span >December 2001 – June 2004</span></div>
+    December 2001 – June 2004
     
     ASP.NET, C#, XML, XSL, SQL Server, SOAP, Web Services, IIS, HTML, VisualStudio.NET, JavaScript, .Net Framework, Technical Lead.
     
-    </div>
-    
-    </div>
     
     
     
-    <div >
+    
+    
+    
+    
     
     #### Developer (contract)
     
-    <div >Elsevier Science (Oxford)</div>
+    Elsevier Science (Oxford)
     
-    <div ><span >April 2001 – December 2001</span></div>
+    April 2001 – December 2001
     
     ASP, Visual Basic 6, XML, XSL, SQL Server, SOAP, Web Services, NT, IIS HTML.
     
-    </div>
-    
-    </div>
     
     
     
-    <div >
+    
+    
+    
+    
     
     #### Developer (contract)
     
-    <div >Achilles Information</div>
+    Achilles Information
     
-    <div ><span >November 2000 – March 2001</span></div>
+    November 2000 – March 2001
     
     ASP, Visual Basic 6, XML, XSL, SQL Server, SOAP, Web services, NT, IIS, HTML, RDF.
     
-    </div>
-    
-    </div>
     
     
     
-    <div >
+    
+    
+    
+    
     
     #### Developer (contract)
     
-    <div >DELL</div>
+    DELL
     
-    <div ><span >AUGUST 2000 – NOVEMBER 2000</span></div>
+    AUGUST 2000 – NOVEMBER 2000
     
     ASP, Visual Basic 6, XML, XSL, MTS, Oracle 8, NT, IIS, HTML, JavaScript, VBScript, PLSQL, Loadrunner.
     
-    </div>
-    
-    </div>
     
     
     
-    <div >
+    
+    
+    
+    
     
     #### Developer (contract)
     
-    <div >Informed People (Oxford)</div>
+    Informed People (Oxford)
     
-    <div ><span >February 2000 – August 2000</span></div>
+    February 2000 – August 2000
     
     ASP, Visual Basic 6, XML, XSL, WML, SOAP, WAP, SQL Server 7, Oracle 8i, NT, HTML, VML, JavaScript, VBScript, PLSQL.
     
-    </div>
-    
-    </div>
     
     
     
-    <div >
+    
+    
+    
+    
     
     #### Developer (contract)
     
-    <div >B.M.W. (GB)</div>
+    B.M.W. (GB)
     
-    <div ><span >July 1999 – February 2000</span></div>
+    July 1999 – February 2000
     
     VB6, ASP, PL/SQL, MTS, ADO, XML, Windows NT, Oracle8, Access, COM, HTML.
     
-    </div>
-    
-    </div>
     
     
     
-    <div >
+    
+    
+    
+    
     
     #### Developer (contract)
     
-    <div >Nortel Networks</div>
+    Nortel Networks
     
-    <div ><span >March 1999 – June 1999</span></div>
+    March 1999 – June 1999
     
     VB6, VC++, HTML, ASP, Oracel8, PL/SQL, RDO, ADO, ActiveX, COM, Visual Modeller, FrontPage, Crystal Reports.
     
-    </div>
-    
-    </div>
     
     
     
-    <div >
+    
+    
+    
+    
     
     #### Developer (contract)
     
-    <div >Capital One (Nottingham)</div>
+    Capital One (Nottingham)
     
-    <div ><span >September 1998 – February 1999</span></div>
+    September 1998 – February 1999
     
     VB6, Visual C++, PL/SQL, Oracle 8, ADO, ActiveX, COM/DCOM, OOP, Windows 95, Windows NT.
     
-    </div>
-    
-    </div>
     
     
     
-    <div >
+    
+    
+    
+    
     
     #### Developer (contract)
     
-    <div >A.M.S. (Dusseldorf)</div>
+    A.M.S. (Dusseldorf)
     
-    <div ><span >July 1998 – August 1998</span></div>
+    July 1998 – August 1998
     
     VB5, Access, SourceSafe, HTML, MS Agent, Win 95.
     
-    </div>
-    
-    </div>
     
     
     
-    <div >
+    
+    
+    
+    
     
     #### Developer (contract)
     
-    <div >PowerGen (Coventry)</div>
+    PowerGen (Coventry)
     
-    <div ><span >April 1997 – June 1998</span></div>
+    April 1997 – June 1998
     
     VB5, PLSQL, RDO, SourceSafe, Crystal reports.
     
-    </div>
-    
-    </div>
     
     
     
-    <div >
+    
+    
+    
+    
     
     #### Developer (contract)
     
-    <div >WS Atkins (Newport)</div>
+    WS Atkins (Newport)
     
-    <div ><span >January 1997 – March 1997</span></div>
+    January 1997 – March 1997
     
     VB4, Oracle, SQL, ODBC API, RDO.
     
-    </div>
-    
-    </div>
     
     
     
-    <div >
+    
+    
+    
+    
     
     #### Developer (contract)
     
-    <div >Windsor Life (Telford)</div>
+    Windsor Life (Telford)
     
-    <div ><span >October 1996 – December 1996</span></div>
+    October 1996 – December 1996
     
     VB4, Oracle, SQL, Access, PVCS, Word.
     
-    </div>
-    
-    </div>
     
     
     
-    <div >
+    
+    
+    
+    
     
     #### Developer (contract)
     
-    <div >C.S.C (Cambridge)</div>
+    C.S.C (Cambridge)
     
-    <div ><span >February 1996 – September 1996</span></div>
+    February 1996 – September 1996
     
     VB4, Access, OLE Automation, DDE, MS Project, OOP, SQL.
     
-    </div>
-    
-    </div>
     
     
     
-    <div >
+    
+    
+    
+    
     
     #### Developer (contract)
     
-    <div >British Gypsum</div>
+    British Gypsum
     
-    <div ><span >January 1996 – February 1996</span></div>
+    January 1996 – February 1996
     
     VAX COBOL, POWERHOUSE.
     
-    </div>
-    
-    </div>
     
     
     
-    <div >
+    
+    
+    
+    
     
     #### Developer (contract)
     
-    <div >Arjo Wiggins</div>
+    Arjo Wiggins
     
-    <div ><span >May 1995 – December 1995</span></div>
+    May 1995 – December 1995
     
     VAX COBOL, DECFORMS, FMS, SQL, Access.
     
-    </div>
-    
-    </div>
     
     
     
-    <div >
+    
+    
+    
+    
     
     #### Developer (contract)
     
-    <div >Anglia Water</div>
+    Anglia Water
     
-    <div ><span >January 1995 – April 1995</span></div>
+    January 1995 – April 1995
     
     Visual Basic, VAX COBOL, SQLModule.
     
-    </div>
-    
-    </div>
     
     
     
-    <div >
+    
+    
+    
+    
     
     #### Developer (contract)
     
-    <div >AT & T ISTEL</div>
+    AT & T ISTEL
     
-    <div ><span >July 1994 – December 1994</span></div>
+    July 1994 – December 1994
     
     DEC/VAX COBOL, POWERHOUSE.
     
-    </div>
-    
-    </div>
     
     
     
-    <div >
+    
+    
+    
+    
     
     #### Developer (contract)
     
-    <div >National Power</div>
+    National Power
     
-    <div ><span >March 1993 – June 1994</span></div>
+    March 1993 – June 1994
     
     VAX COBOL, VAX C, SLGMS.
     
-    </div>
-    
-    </div>
     
     
     
-    <div >
+    
+    
+    
+    
     
     #### Developer (contract)
     
-    <div >KPMG</div>
+    KPMG
     
-    <div ><span >January 1993 – February 1993</span></div>
+    January 1993 – February 1993
     
     VAX COBOL.
     
-    </div>
-    
-    </div>
     
     
     
-    <div >
+    
+    
+    
+    
     
     #### Developer (contract)
     
-    <div >MODO Group</div>
+    MODO Group
     
-    <div ><span >July 1992 – December 1992</span></div>
+    July 1992 – December 1992
     
     VAX COBOL, POWERHOUSE.
     
-    </div>
-    
-    </div>
     
     
     
-    <div >
+    
+    
+    
+    
     
     #### Developer (contract)
     
-    <div >AT & T ISTEL</div>
+    AT & T ISTEL
     
-    <div ><span >February 1991- June 1992</span></div>
+    February 1991- June 1992
     
     COBOL, POWERHOUSE.
     
-    </div>
-    
-    </div>
     
     
     
-    <div >
+    
+    
+    
+    
     
     #### Developer (permanent)
     
-    <div >SOVICO (France)</div>
+    SOVICO (France)
     
-    <div ><span >August 1990 – January 1991</span></div>
+    August 1990 – January 1991
     
     VAX COBOL, DCL.
     
-    </div>
-    
-    </div>
     
     
     
-    <div >
+    
+    
+    
+    
     
     #### Developer (contract)
     
-    <div >D.E.C. (France)</div>
+    D.E.C. (France)
     
-    <div ><span >December 1989 – July 1990</span></div>
+    December 1989 – July 1990
     
     VAX PASCAL,VAX BASIC, DCL, SQL.
     
-    </div>
-    
-    </div>
     
     
     
-    <div >
+    
+    
+    
+    
     
     #### Developer (permanent)
     
-    <div >Thomas Cook</div>
+    Thomas Cook
     
-    <div ><span >May 1987 – December 1989</span></div>
+    May 1987 – December 1989
     
     VAX BASIC, PRO IV, COBOL, DCL.
     
-    </div>
-    
-    </div>
     
     
     
-    <div >
+    
+    
+    
+    
     
     #### Developer (permanent)
     
-    <div >Workstations Ltd.</div>
+    Workstations Ltd.
     
-    <div ><span >February 1985 – May 1987</span></div>
+    February 1985 – May 1987
     
     DATAFLEX.
     
-    </div>
-    
-    </div>
     
     
     
-    <div >
+    
+    
+    
+    
     
     #### Developer (permanent)
     
-    <div >INTEC Ltd.</div>
+    INTEC Ltd.
     
-    <div ><span >June 1984 – February 1985</span></div>
+    June 1984 – February 1985
     
     BBC BASIC, 6502 Assembler.
     
-    </div>
     
-    </div>
     
-    </div>
+
     
-    </section>
     
-    {/*
-    
-    <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="education">
-    
-    <div class="my-auto">
     
     ## Education
     
     
     
-    <div >
+    
     
     ### Norwich City College
     
-    <div >BEC TEC HND</div>
+    BEC TEC HND
     
-    <div>Computer Studies</div>
+    Computer Studies
     
     //
     
     GPA: 3.23
     
-    </div>
     
-    <div ><span >september 19812006 - June 1983</span></div>
     
-    </div>
+    september 19812006 - June 1983
     
-    <div class="resume-item d-flex flex-column flex-md-row">
     
-    <div >
+
+    
+    
     
     ### King Edward VII Upper School
     
-    <div >A Levels, O Levels</div>
+    A Levels, O Levels
     
     //
     
     GPA: 3.56
     
-    </div>
     
-    <div >//<span >August 2002 - May 2006</span></div>
     
-    </div>
+    //August 2002 - May 2006
     
-    </div>
     
-    </section>
     
-    */}
     
-    <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="skills">
+
     
-    <div class="my-auto">
+    
     
     ## Skills
     
-    <div >Programming Languages & Tools</div>
+    Programming Languages & Tools
     
     *   _dotnet_
     *   _React_
@@ -982,13 +965,11 @@ permalink: /cv/
     *   _Git_
     *   _html5_
     
-    </div>
     
-    </section>
     
-    <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="awards">
+
     
-    <div class="my-auto">
+    
     
     ## Awards & Certifications
     
@@ -999,9 +980,5 @@ permalink: /cv/
     *   ![](./content/MCAD-NET-logo-BW.png)
     *   ![](./content/MCSD1-VStudio6-logo-BW.png)
     
-    </div>
     
-    </section>
-    
-    <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="interests">
     
