@@ -9,15 +9,10 @@ permalink: /cv/
 
 53 Great Clarendon st, Oxford, OX2 6AX, UK . [marshall.peter@gmail.com](mailto:marshall.peter@gmail.com)
 
-Enterprise Application Developer with over 20 Years of experience as a contractor working on a wide variety of development projects. Working mostly in Public Utilities, Telecoms, Finance and Scientific Journal Publishing. Microsoft Gold Partner.
+Enterprise Application Developer with over 20 Years of experience as a contractor working on a wide variety of development projects. Working mostly in Public Utilities, Telecoms, Finance and Scientific Journal Publishing.
 
-Most recent skills, ASP.NET MVC, C#, SQL Server, Web Services, Visual Studio, Agile, Scrum, REST, LINQ, TDD, BDD, EF. Javascript, Angular, React
+**Most recent Skills:** ASP.NET MVC, C#, SQL Server, Web Services, Visual Studio, Agile, Scrum, REST, LINQ, TDD, BDD, EF. Javascript, Angular, React, Postgresql
 
-*   [Personal Blog](http://peter.withknown.com)
-*   [Twitter](https://twitter.com/petermarshall)
-*   [LinkedIn](https://linkedin.com/in/thebestdevyouwilleverfind)
-*   [Stackoverflow](https://stackoverflow.com/users/4692/peter-marshall)
-*   [MS Certification](http://www.mycertprofile.com/Profile/9843288887)
 
 
 
@@ -31,13 +26,13 @@ Most recent skills, ASP.NET MVC, C#, SQL Server, Web Services, Visual Studio, Ag
 ## UKSBS (Swindon) 
 *November 2018 - present*
 
-Skills: DOTNET CORE, ASP.NET MVC, WEB API, C#, JavaScript, AWS, Micro services, Postgresql, Git, TDD, scrum, Okta, Jenkins
+**Skills:** DOTNET CORE, ASP.NET MVC, WEB API, C#, JavaScript, AWS, Micro services, Postgresql, Git, TDD, scrum, Okta, Jenkins
 
 * Developing a replacement for the clients grants system.
 
 * Working in a small scrum team as senior developer, making technolgy stack decisions and guiding scrum processes.
 
-* Writing code across the full stack, some of these modules were very complex indeed translating existing stored procedures for spread calculations into c#
+* Writing code across the full stack, some of these modules were very complex indeed translating existing stored procedures for spread calculations into c#.
 
 
 
@@ -53,9 +48,9 @@ Skills: DOTNET CORE, ASP.NET MVC, WEB API, C#, JavaScript, AWS, Micro services, 
 ## Schroders Asset Management (Luxembourg)
 *July 2018 - October 2018*
 
-Skills: ASP.NET MVC, WEB API, C#, JavaScript, Azure, Service Fabric, React, Sql Server, GraphQl, NodeJS, TFS, TDD, scrum, Octopus Deploy
+**Skills:** ASP.NET MVC, WEB API, C#, JavaScript, Azure, Service Fabric, React, Sql Server, GraphQl, NodeJS, TFS, TDD, scrum, Octopus Deploy
 
-* Developing api end points to serve up clients data though services deployed on azure service fabric.
+* Developing api end points in c# to serve up clients data though services deployed on azure service fabric.
 
 * Operating out of Luxembourg, Working in a globally distributed team, managing build and deploy process in Octopus Deploy.
 
@@ -76,7 +71,7 @@ Skills: ASP.NET MVC, WEB API, C#, JavaScript, Azure, Service Fabric, React, Sql 
 ## Sunquest Information Systems
 *July 2017 - July 2018*
 
-Skills: ASP.NET MVC, WEB API, C#, JavaScript, Angular, Sql Server, TFS, TDD, scrum, Entity Framework.
+**Skills:** ASP.NET MVC, WEB API, C#, JavaScript, Angular, Sql Server, TFS, TDD, scrum, Entity Framework.
 
 * Working right across this clients stack, from client side JavaScript (Angular), Server side code in C# and stored procedures in T-SQL on the Sql Server Database.
 
@@ -101,7 +96,7 @@ Skills: ASP.NET MVC, WEB API, C#, JavaScript, Angular, Sql Server, TFS, TDD, scr
 ## JP Morgan
 *March 2017 - July 2017*
 
-Skills: ASP.NET MVC, WEB API, C#, Javascript, typescript, Angular, Sql Server, Git, TDD, splunk, windows services, powershell, Jenkins.
+**Skills:** ASP.NET MVC, WEB API, C#, Javascript, typescript, Angular, Sql Server, Git, TDD, splunk, windows services, powershell, Jenkins.
 
 * Developing Application Compute Cloud. An internal application to manage virtual machines running on the custom JP Morgan Cloud infrastructure.
 
@@ -128,7 +123,7 @@ Skills: ASP.NET MVC, WEB API, C#, Javascript, typescript, Angular, Sql Server, G
 ## UCAS
 *March 2015 - February 2017*
 
-Skills: ASP.NET MVC, WEB API, C#, Javascript, Angular, MySql, Git, NEventStore, Dapper, ElasticSearch, CQRS, AWS, Postgres, Fluent Migrator, MSPec, Scrum, TDD.
+**Skills:** ASP.NET MVC, WEB API, C#, Javascript, Angular, MySql, Git, NEventStore, Dapper, ElasticSearch, CQRS, AWS, Postgres, Fluent Migrator, MSPec, Scrum, TDD.
 
 * Working as part of the Digital Acceleration team to completely re-write the online presence of this well respected public institution. This was a very big project with multiple scrum teams and a huge technology stack. Atlassian products were used to manage the development such as Bamboo, Jira, Bitbucket, Confluence and Hipchat.
 
@@ -153,7 +148,7 @@ Skills: ASP.NET MVC, WEB API, C#, Javascript, Angular, MySql, Git, NEventStore, 
 ## Royal Horticultural Society
 *August 2014 - February 2015*
 
-Skills: ASP.NET MVC 5.0, WEB.API 2.0, C#, Javascript, SQL Server, TDD, MOQ, TFS, Angular, Bootstrap.
+**Skills:** ASP.NET MVC 5.0, WEB.API 2.0, C#, Javascript, SQL Server, TDD, MOQ, TFS, Angular, Bootstrap.
 
 * This was a full stack role working in a small team using a scrum process to develop a Customer Relationship Management System, from the ground up.
 
@@ -174,7 +169,7 @@ Skills: ASP.NET MVC 5.0, WEB.API 2.0, C#, Javascript, SQL Server, TDD, MOQ, TFS,
 ## CPA Global
 *January 2014 - July 2014*
 
-Skills: ASP.NET MVC 4, WEB.API, C#, Javascript, SQL Server, Oracle, Telerik Open Access, TDD, BDD, StoryQ, SVN, MOQ, Angular.js, Automapper, JIRA.
+**Skills:** ASP.NET MVC 4, WEB.API, C#, Javascript, SQL Server, Oracle, Telerik Open Access, TDD, BDD, StoryQ, SVN, MOQ, Angular.js, Automapper, JIRA.
 
 * Leading a small team to evolve this clients software architecture, writing a proof of concept that allowed the repository to be database agnostic, and opening up the front end to be accessible by a variety of clients by using JSON to interact with a WEB.API layer.
 
@@ -194,7 +189,7 @@ Skills: ASP.NET MVC 4, WEB.API, C#, Javascript, SQL Server, Oracle, Telerik Open
 ## JP Morgan Chase
 *August 2011 - December 2013*
 
-Skills: ASP.NET MVC 3/4, C#, Razor, Javascript, SQL Server, Oracle, Entity Framework, WCF, .NET 4.5, TDD, MOQ, JQuery, Knockout.js, QPID, SPA, scrum, jira, cruisecontrol, svn.
+**Skills:** ASP.NET MVC 3/4, C#, Razor, Javascript, SQL Server, Oracle, Entity Framework, WCF, .NET 4.5, TDD, MOQ, JQuery, Knockout.js, QPID, SPA, scrum, jira, cruisecontrol, svn.
 
 * Working as part of the Global Technology Infrastructure dept. of this large investment bank. Creating solutions from functional requirements through to production implementation. This role involved working with a distributed development team, with testers in India, and analysts in the USA and management teams in Ireland. Responsible for design docs, code, unit tests, build process, and code management.
 
@@ -227,7 +222,7 @@ Skills: ASP.NET MVC 3/4, C#, Razor, Javascript, SQL Server, Oracle, Entity Frame
 ## Doctors Chambers
 *Febuary 2011 - July 2011*
 
-Skills: Silverlight, MVVMLight, WCF, ASP.NET, C#, SQL Server, .NET 4, TDD, SVN, Blend, Entity Framework, LINQ, WPF, Interlinq (RIA Services), MOQ, SQl Server Service Broker.
+**Skills:** Silverlight, MVVMLight, WCF, ASP.NET, C#, SQL Server, .NET 4, TDD, SVN, Blend, Entity Framework, LINQ, WPF, Interlinq (RIA Services), MOQ, SQl Server Service Broker.
 
 * As a senior developer I was providing guidance on architecture and development practices. Including giving a lead in tools and environments for TDD.
 
@@ -251,7 +246,7 @@ Skills: Silverlight, MVVMLight, WCF, ASP.NET, C#, SQL Server, .NET 4, TDD, SVN, 
 ## Reed Business Information
 *August 2010 - Janunary 2011*
 
-Skills: WCF, ASP.NET, C#, SQL Server, .NET 3.5, TDD, MOQ, SSIS, Ecommerce, TFS, ELMAH, watin.
+**Skills:** WCF, ASP.NET, C#, SQL Server, .NET 3.5, TDD, MOQ, SSIS, Ecommerce, TFS, ELMAH, watin.
 
 * Leading a small team to refactor and update the code for the clients credit card processing services. Providing guidance on development practices and scrum.
 
@@ -275,7 +270,7 @@ Skills: WCF, ASP.NET, C#, SQL Server, .NET 3.5, TDD, MOQ, SSIS, Ecommerce, TFS, 
 ## Big Pink New Media
 *January 2010 - July 2010*
 
-Skills: ASP.NET MVC 2, C#, SQL Server, NHibernate, .NET 3.5, JQuery, Ninject, JSONP, TDD, MOQ, scrum, StoryQ, Sharepoint, Pair Programming.
+**Skills:** ASP.NET MVC 2, C#, SQL Server, NHibernate, .NET 3.5, JQuery, Ninject, JSONP, TDD, MOQ, scrum, StoryQ, Sharepoint, Pair Programming.
 
 * Developed RESTful web services in ASP.NET MVC.
 
@@ -303,7 +298,7 @@ Skills: ASP.NET MVC 2, C#, SQL Server, NHibernate, .NET 3.5, JQuery, Ninject, JS
 ## Formula One Management
 *September 2009 - January 2010*
 
-Skills: ASP.NET MVC, JQuery, C#, SQL Server, Linq to Sql, .NET 3.5, TDD, MOQ, scrum, Excel, DOCX.
+**Skills:** ASP.NET MVC, JQuery, C#, SQL Server, Linq to Sql, .NET 3.5, TDD, MOQ, scrum, Excel, DOCX.
 
 * Design and develop an internal travel system web site.
 
@@ -329,7 +324,7 @@ Skills: ASP.NET MVC, JQuery, C#, SQL Server, Linq to Sql, .NET 3.5, TDD, MOQ, sc
 ## IDOX Group Plc
 *December 2008 - August 2009*
 
-Skills: C#, Oracle, Visual Studio, ASP.NET, NUnit, NHibernate (ORM), Web Services, WSDL, TDD, PLSQL, Perforce.
+**Skills:** C#, Oracle, Visual Studio, ASP.NET, NUnit, NHibernate (ORM), Web Services, WSDL, TDD, PLSQL, Perforce.
 
 * Working for the Northern Ireland Planning Service on a very large development project subcontracted through HP and BT. Technical design and implementation of web services, written in C# with Oracle as a back end.
 
@@ -349,7 +344,7 @@ Skills: C#, Oracle, Visual Studio, ASP.NET, NUnit, NHibernate (ORM), Web Service
 ## CDC Respond
 *August 2008 - November 2008*
 
-Skills: C# 3.0 .NET 3.5, SQL Server, Team Foundation Server, WPF, WCF, LINQ. TDD.
+**Skills:** C# 3.0 .NET 3.5, SQL Server, Team Foundation Server, WPF, WCF, LINQ. TDD.
 
 * Working from detailed specifications as part of a large development team. Writing web services code (WCF), and client side user interface code (WPF), to bring clients application up to date. 
 
@@ -369,7 +364,7 @@ Skills: C# 3.0 .NET 3.5, SQL Server, Team Foundation Server, WPF, WCF, LINQ. TDD
 ## Pearson (Oxford)
 *November 2007 - July 2008*
 
-Skills: ASP.NET MVC, C#, Silverlight, XAML, SQL Server, VisualStudio.NET, TeamCity, REST, NUnit, TDD, watin, Selenium, Subversion, pair programming.
+**Skills:** ASP.NET MVC, C#, Silverlight, XAML, SQL Server, VisualStudio.NET, TeamCity, REST, NUnit, TDD, watin, Selenium, Subversion, pair programming.
 
 * Working in an agile team using XP, Scrum and continuous integration to develop a web site for Pearson to distribute disaggregated content.
 
@@ -395,7 +390,7 @@ Skills: ASP.NET MVC, C#, Silverlight, XAML, SQL Server, VisualStudio.NET, TeamCi
 ## OPP (Oxford)
 *August 2006 - October 2007*
 
-Skills: ASP.NET 2.0 , C# 2.0, SQL Server 2005, VisualStudio.NET 2005, Windows Forms.
+**Skills:** ASP.NET 2.0 , C# 2.0, SQL Server 2005, VisualStudio.NET 2005, Windows Forms.
 
 * Working from business requirements to design and develop an application to manage XML based documents. Created database design and overall architecture.
 
@@ -421,7 +416,7 @@ Skills: ASP.NET 2.0 , C# 2.0, SQL Server 2005, VisualStudio.NET 2005, Windows Fo
 ## RWE nPower
 *February 2006 - August 2006*
 
-* Skills: ASP.NET 2.0 , C# 2.0, SQL Server, Oracle, VisualStudio.NET 2005, Nant, NUnit, FxCop, NCover, TDD.
+* **Skills:** ASP.NET 2.0 , C# 2.0, SQL Server, Oracle, VisualStudio.NET 2005, Nant, NUnit, FxCop, NCover, TDD.
 
 * Working in Trading Decision Support, writing web services to deliver charting data from a variety of data sources.
 
@@ -943,6 +938,11 @@ Programming Languages & Tools
 *   _html5_
 
 
+*   [Personal Blog](http://peter.withknown.com)
+*   [Twitter](https://twitter.com/petermarshall)
+*   [LinkedIn](https://linkedin.com/in/thebestdevyouwilleverfind)
+*   [Stackoverflow](https://stackoverflow.com/users/4692/peter-marshall)
+*   [MS Certification](http://www.mycertprofile.com/Profile/9843288887)
 
 
 
