@@ -45,8 +45,8 @@ google_analytics: UA-153801665-1
 
 # Your website URL (e.g. http://amitmerchant1990.github.io or http://www.amitmerchant.com)
 # Used for Sitemap.xml and your RSS feed
-url: http://nearby.cafe/
-enforce_ssl: https://http://nearby.cafe/
+url: https://petermarshall.github.io/blog//
+enforce_ssl: https://petermarshall.github.io/blog/
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
