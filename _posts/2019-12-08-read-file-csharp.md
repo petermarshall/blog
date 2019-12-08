@@ -3,9 +3,9 @@ I have an rss feed that I want to read and process. Opening an reading this file
 
 Well 3 lines if you want it to be any use.
 
-```C#
+{% highlight csharp %}
     string fileLocation = @"D:\export.rss";
     string textFromFile = System.IO.File.ReadAllText(fileLocation);
     Console.WriteLine("Contents of {0} = {1}", fileLocation, textFromFile);
-```
+{% endhighlight %}
 
