@@ -14,3 +14,4 @@ permalink: /links/
 
 # C#
 * [MoreDotNet A combination of helpful extension methods.](https://github.com/Teodor92/MoreDotNet)
+* [C# exception handling best practices](https://blog.elmah.io/csharp-exception-handling-best-practices/)
