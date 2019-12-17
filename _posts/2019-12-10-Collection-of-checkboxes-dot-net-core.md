@@ -1,3 +1,8 @@
+---
+layout: post
+title: Nested checkboxes problem for asp.net mvc
+categories: [c#, code]
+---
 **Nested checkboxes problem for asp.net mvc**
 
 I have a viewmodel that has a collection of items, some of those items are bool values that I want to set with checkboxes in the UI. On submit I want to process the checkbox values server side.
