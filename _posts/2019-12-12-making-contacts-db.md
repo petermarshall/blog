@@ -1,3 +1,8 @@
+---
+layout: post
+title: Create a contact manager in a local db
+categories: [electon, code, tutorial]
+---
 *Create a contact manager in a local db*
 
 This is going to use electon, and sqlLite. It should work across windows and linux.
