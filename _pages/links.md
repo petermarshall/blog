@@ -27,3 +27,12 @@ permalink: /links/
 
 *Rocket-Store is a high performance solution to simple data storage and retrieval. It's taking advantage of modern file system's exceptionally advanced cashing mechanisms. It's packaged in a single file to include, with few dependencies.*
 
+# Lists
+* [Code Beautify](https://codebeautify.org/)
+
+# Tools
+* [Online Notepad for developers](https://stashany.com/)
+
+# Message queues
+* [Announcing Message DB: Event Store and Message Store for PostgreSQL](https://blog.eventide-project.org/articles/announcing-message-db/)
+
