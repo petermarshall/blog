@@ -16,6 +16,9 @@ permalink: /links/
 * [MoreDotNet A combination of helpful extension methods.](https://github.com/Teodor92/MoreDotNet)
 * [C# exception handling best practices](https://blog.elmah.io/csharp-exception-handling-best-practices/)
 
+# c# Code Coverage
+[Measuring .NET Core Test Coverage with Coverlet](https://www.tonyranieri.com/blog/2019/07/31/Measuring-.NET-Core-Test-Coverage-with-Coverlet/)
+
 # Electron
 * [Building a desktop application with Electron](https://medium.com/developers-writing/building-a-desktop-application-with-electron-204203eeb658?)
 * [Useful resources for creating apps with Electron](https://github.com/sindresorhus/awesome-electron)
