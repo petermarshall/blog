@@ -28,7 +28,7 @@ permalink: /links/
 * [Simple data persistence for your Electron app or module - Save and load user preferences, app state, cache, etc](https://github.com/sindresorhus/electron-store)
 *[Rocket-Store Using the filesystem as a searchable database.](https://www.npmjs.com/package/rocket-store)
 
-*Rocket-Store is a high performance solution to simple data storage and retrieval. It's taking advantage of modern file system's exceptionally advanced cashing mechanisms. It's packaged in a single file to include, with few dependencies.*
+ *Rocket-Store is a high performance solution to simple data storage and retrieval. It's taking advantage of modern file system's exceptionally advanced cashing mechanisms. It's packaged in a single file to include, with few dependencies.*
 
 # Lists
 * [Code Beautify](https://codebeautify.org/)
