@@ -39,3 +39,11 @@ permalink: /links/
 # Message queues
 * [Announcing Message DB: Event Store and Message Store for PostgreSQL](https://blog.eventide-project.org/articles/announcing-message-db/)
 
+# React
+* [react redux article](https://www.robinwieruch.de/redux-javascript)
+
+# React with Electron
+* [electron react boilerplate github](https://github.com/electron-react-boilerplate/electron-react-boilerplate)
+* [electron react boilerplate website](https://electron-react-boilerplate.js.org/)
+
+ *A Foundation for Scalable Cross-Platform Apps
