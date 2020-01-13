@@ -34,3 +34,4 @@ var context = _httpContextAccessor.HttpContext;
 return context.User.Identities.Any(x => x.IsAuthenticated);
 }
 }
+```
