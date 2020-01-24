@@ -14,7 +14,7 @@ Enterprise Application Developer with over 20 Years of experience as a contracto
 **Most recent Skills:** ASP.NET MVC, C#, SQL Server, Web Services, Visual Studio, Agile, Scrum, REST, LINQ, TDD, BDD, EF. Javascript, Angular, React, Postgresql
 
 
-![alt text](../images/ms_professional_developer.png, "Microsoft Certified Professional Developer")
+![alt text]("/blog/images/ms_professional_developer.png", "Microsoft Certified Professional Developer")
 
 
 # Recent Experience
