@@ -16,6 +16,11 @@ Enterprise Application Developer with over 20 Years of experience as a contracto
 
 ![alt text](https://petermarshall.github.io/blog/images/ms_professional_developer.png "Microsoft Certified Professional Developer")
 
+![alt text](https://petermarshall.github.io/blog/images/ms_certified_application_developer.png "Microsoft Certified Application Developer")
+
+![alt text](https://petermarshall.github.io/blog/images/ms_certifies_solution_developer.png "Microsoft Certified Solution Developer")
+
+![alt text](https://petermarshall.github.io/blog/images/ms_technology_specialist.png "Microsoft Technology Specialist")
 
 # Recent Experience
 
