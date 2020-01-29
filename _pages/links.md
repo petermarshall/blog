@@ -47,3 +47,6 @@ permalink: /links/
 * [electron react boilerplate website](https://electron-react-boilerplate.js.org/)
 
  *A Foundation for Scalable Cross-Platform Apps
+ 
+ # javascript libraries
+ * [Create complete reports using DataTables and ASP.NET MVC Core](https://davidsonsousa.net/blog/post/create-complete-reports-using-datatables-and-aspnet-mvc-core)
