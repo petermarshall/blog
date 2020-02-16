@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about/
+categories: [links, personal, nearby.cafe]
 ---
 
 *   [Personal Blog](http://peter.withknown.com)
