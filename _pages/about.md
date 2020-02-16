@@ -4,26 +4,20 @@ title: About
 permalink: /about/
 ---
 
-[Reverie](https://github.com/amitmerchant1990/reverie) is a Jekyll theme which is simple and opinionated. It's actually a fork of [jekyll-now](https://github.com/barryclark/jekyll-now) with some additional features and personal touches which I've implemented to suit my needs for [my blog](https://www.amitmerchant.com).
+*   [Personal Blog](http://peter.withknown.com)
+ I used to write items to this blog, but like almost all blogs it is redundant now.
+*   [Twitter](https://twitter.com/petermarshall)
+*   [LinkedIn](https://linkedin.com/in/thebestdevyouwilleverfind)
+*   [Stackoverflow](https://stackoverflow.com/users/4692/peter-marshall)
+*   [MS Certification](http://www.mycertprofile.com/Profile/9843288887)
 
-This is a plug-and-play Jekyll theme which you can use on GitHub Pages without even setting up a local environment.
+# [Nearby.Cafe](http://nearby.cafe) #
 
-## Features
+Nearby.cafe is a site I use to learn technologies. It gets the users location, and shows them the nearest cafes.
 
-- Command-line free fork-first workflow, using GitHub.com to create, customize and post to your blog
-- Fully responsive and mobile optimized base theme
-- Sass/Coffeescript support using Jekyll 2.0
-- Free hosting on your GitHub Pages user site
-- All the SEO goodies comes in-built
-- Markdown blogging
-- Syntax highlighting using Pygments
-    - [Dracula syntax theme](https://draculatheme.com/) included
-- Disqus commenting
-- Google Analytics integration
-- Fuzzy search across blog posts
-- Pagination of posts works out-of-the-box.
-- Categorize posts out-of-the box
-- RSS Feed
-- In-built sitemap
+* hosted on azure
+* uses cosmosDb to store the location of every cafe in the world
+* cafe locations were sourced from openstreetmap
+* uses react as the frontend framework
+* uses asp.net and c# on the server side.
 
-Learn more about it [here](https://github.com/amitmerchant1990/reverie) on how to get started.
