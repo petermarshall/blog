@@ -16,7 +16,7 @@
     <meta name="keywords" content="Peter Marshall, P33tr, resume, curriculum vitae, cv" />
     <meta name="description" content="Blogs links and CV of Peter Marshall" />
   <!-- OpenGraph -->
-  <meta property="og:title" content="Resume of Peter Marshall" />
+  <meta property="og:title" content={% if page.title and page.title != "" %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }} />
   <meta property="og:type" content="document" />
   <meta property="og:url" content="https://petermarshall.github.io/blog/" />
   <meta property="og:image" content="https://petermarshall.github.io/blog/" />
@@ -25,7 +25,7 @@
   <!-- Twitter specific -->
   <meta name="twitter:card" content="summary" />
   <meta name="twitter:url" content="https://petermarshall.github.io/blog/" />
-  <meta name="twitter:title" content="[same as HTML title]" />
+  <meta name="twitter:title" content={% if page.title and page.title != "" %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }} />
   <meta name="twitter:description" content="Blogs links and CV of Peter Marshall" />
   <meta name="twitter:image" content="https://petermarshall.github.io/blog/" />
   </head>
