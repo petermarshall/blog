@@ -16,6 +16,7 @@ permalink: /links/
 * [MoreDotNet A combination of helpful extension methods.](https://github.com/Teodor92/MoreDotNet)
 * [C# exception handling best practices](https://blog.elmah.io/csharp-exception-handling-best-practices/)
 * [SENDING AND RECEIVING JSON USING HTTPCLIENT WITH SYSTEM.NET.HTTP.JSON](https://www.stevejgordon.co.uk/sending-and-receiving-json-using-httpclient-with-system-net-http-json)
+* [Dependency Injection Lifetimes In ASP.NET CORE](https://www.c-sharpcorner.com/article/dependency-injection-lifetimes-in-asp-net-core/) This is a good clear explanation.
 
 # c# Code Coverage
 [Measuring .NET Core Test Coverage with Coverlet](https://www.tonyranieri.com/blog/2019/07/31/Measuring-.NET-Core-Test-Coverage-with-Coverlet/)
