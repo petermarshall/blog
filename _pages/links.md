@@ -15,6 +15,7 @@ permalink: /links/
 # C#
 * [MoreDotNet A combination of helpful extension methods.](https://github.com/Teodor92/MoreDotNet)
 * [C# exception handling best practices](https://blog.elmah.io/csharp-exception-handling-best-practices/)
+* [SENDING AND RECEIVING JSON USING HTTPCLIENT WITH SYSTEM.NET.HTTP.JSON](https://www.stevejgordon.co.uk/sending-and-receiving-json-using-httpclient-with-system-net-http-json)
 
 # c# Code Coverage
 [Measuring .NET Core Test Coverage with Coverlet](https://www.tonyranieri.com/blog/2019/07/31/Measuring-.NET-Core-Test-Coverage-with-Coverlet/)
