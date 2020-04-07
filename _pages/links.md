@@ -6,6 +6,10 @@ permalink: /links/
 
 []()
 
+# Current Learning
+* [JavaScript Everywhere](https://github.com/javascripteverywhere/api) This is the book I am currently reading through.
+
+
 # Markdown
 * [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet)
 
