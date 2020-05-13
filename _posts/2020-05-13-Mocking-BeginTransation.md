@@ -1,10 +1,9 @@
 ---
 layout: post
-title: Mocking BeginTransation in Dapper
+title: Mocking BeginTransation() in Dapper and MOQ
 categories: [dotnet-core, code, tutorial, unit-test, TDD, MOQ]
 ---
 
-# Mocking BeginTransaction() in Dapper
 
 Somewhere deep in your data access code you have.
 
