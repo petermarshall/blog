@@ -9,9 +9,9 @@ permalink: /cv/
 
 53 Great Clarendon st, Oxford, OX2 6AX, UK . [marshall.peter@gmail.com](mailto:marshall.peter@gmail.com)
 
-Enterprise Application Developer with over 20 Years of experience as a contractor working on a wide variety of development projects. Working mostly in Public Utilities, Telecoms, Finance and Scientific Journal Publishing.
+Enterprise Application Developer with over 30 Years of experience as a contractor working on a wide variety of development projects. Working mostly in Public Utilities, Telecoms, Finance and Scientific Journal Publishing.
 
-**Most recent Skills:** ASP.NET MVC, C#, SQL Server, Web Services, Visual Studio, Agile, Scrum, REST, LINQ, TDD, BDD, EF. Javascript, Angular, React, Postgresql
+**Most recent Skills:** ASP.NET MVC, C#, SQL Server, Postgresql, Web Services, Visual Studio, Agile, Scrum, REST, LINQ, TDD, BDD, EF. Javascript, Angular, React, GraphQL
 
 
 
@@ -25,13 +25,17 @@ Enterprise Application Developer with over 20 Years of experience as a contracto
 ## UKSBS (Swindon) 
 *November 2018 - present*
 
-**Skills:** DOTNET CORE, ASP.NET MVC, WEB API, C#, JavaScript, AWS, Micro services, Postgresql, Git, TDD, scrum, Okta, Jenkins
+**Skills:** DOTNET CORE, ASP.NET MVC, WEB API, C#, JavaScript, AWS, Micro services, Postgresql, Git, TDD, scrum, Okta, Jenkins, GraphQL, dapper, razor.
 
 * Developing a replacement for the clients grants system.
 
 * Working in a small scrum team as senior developer, making technolgy stack decisions and guiding scrum processes.
 
 * Writing code across the full stack, some of these modules were very complex indeed translating existing stored procedures for spread calculations into c#.
+  
+* Creating API's so external systems can interact with the microservices, including creating a GraphQL 
+endpoint for client defined queries.
+
 
 
 
