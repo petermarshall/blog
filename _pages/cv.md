@@ -25,15 +25,26 @@ Enterprise Application Developer with over 30 Years of experience as a contracto
 ## UKSBS (Swindon) 
 *November 2018 - present*
 
-**Skills:** DOTNET CORE, ASP.NET MVC, WEB API, C#, JavaScript, Dapper, AWS, Micro services, Postgresql, Git, TDD, scrum, Okta, Jenkins, GraphQL, dapper, razor.
+**Skills:** DOTNET CORE, ASP.NET MVC, WEB API, C#, JavaScript, AWS, Micro services, Postgresql, Git, TDD, scrum, Okta, Jenkins, GraphQL, dapper, razor, BDDfy,rabbitMQ.
 
-* Developing a replacement for the clients grants system.
+* Replacing the clients grant profiling and indexation services to enable them to de-couple from legacy 3rd party systems.
 
-* Working in a small scrum team as senior developer, making technolgy stack decisions and guiding scrum processes.
+* Creating user interfaces for applications using razor and web services in asp.net webapi.
 
+* Building these solutions from the ground up. Involved in all aspects of the development including selecting the development stack and technology. 
+
+* Coding complex financial spread calculations in C#. Deciphering existing stored procedures and building understanding where no documentation existed.  
+
+* As senior developer building up a development team and putting in place the software development process and toolset. Assisting the scrummaster to set up the scrum process and leading scrum retrospectives from time to time.
+
+* Creating a successful migration process to transfer millions of existing grants to the new system without loss of data.
+
+<<<<<<< HEAD
 * Writing code across the full stack, some of these modules were very complex indeed translating existing stored procedures for spread calculations into c#. 
   
 * Creating API's so external systems can interact with the microservices, including creating a GraphQL endpoint for client defined queries.
+=======
+>>>>>>> 0df9c913f83e69aa33208e6e26f591b23a5652f9
 
 * Created the migration process to take data from the legacy system to the newly created system, using S3 buckets for data storage.
 
