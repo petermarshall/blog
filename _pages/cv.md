@@ -11,7 +11,7 @@ permalink: /cv/
 
 Enterprise Application Developer with over 30 Years of experience as a contractor working on a wide variety of development projects. Working mostly in Public Utilities, Telecoms, Finance and Scientific Journal Publishing.
 
-**Most recent Skills:** ASP.NET MVC, C#, SQL Server, Postgresql, Web Services, Visual Studio, Agile, Scrum, REST, LINQ, TDD, BDD, EF. Javascript, Angular, React, GraphQL
+**Most recent Skills:** ASP.NET MVC, C#, SQL Server, Postgresql, Web Services, Visual Studio, Agile, Scrum, REST, LINQ, TDD, BDD, EF. Javascript, Angular, React, GraphQL, AWS
 
 
 
@@ -25,17 +25,17 @@ Enterprise Application Developer with over 30 Years of experience as a contracto
 ## UKSBS (Swindon) 
 *November 2018 - present*
 
-**Skills:** DOTNET CORE, ASP.NET MVC, WEB API, C#, JavaScript, AWS, Micro services, Postgresql, Git, TDD, scrum, Okta, Jenkins, GraphQL, dapper, razor.
+**Skills:** DOTNET CORE, ASP.NET MVC, WEB API, C#, JavaScript, Dapper, AWS, Micro services, Postgresql, Git, TDD, scrum, Okta, Jenkins, GraphQL, dapper, razor.
 
 * Developing a replacement for the clients grants system.
 
 * Working in a small scrum team as senior developer, making technolgy stack decisions and guiding scrum processes.
 
-* Writing code across the full stack, some of these modules were very complex indeed translating existing stored procedures for spread calculations into c#.
+* Writing code across the full stack, some of these modules were very complex indeed translating existing stored procedures for spread calculations into c#. 
   
-* Creating API's so external systems can interact with the microservices, including creating a GraphQL 
-endpoint for client defined queries.
+* Creating API's so external systems can interact with the microservices, including creating a GraphQL endpoint for client defined queries.
 
+* Created the migration process to take data from the legacy system to the newly created system, using S3 buckets for data storage.
 
 
 
