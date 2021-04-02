@@ -4,7 +4,7 @@ title: How to add bing maps to a blazor webassembly app
 categories: [code, blazor, map, webassembly]
 ---
 
-Get a bing maps api key from (here)[https://www.bingmapsportal.com]
+Get a bing maps api key from [here](https://www.bingmapsportal.com)
 
 Create you blazor client side app.
 
@@ -13,7 +13,7 @@ Add the following lines in the body section
 
 ``` html
 <script src="script.js"></script>
-<script src='https://www.bing.com/api/maps/mapcontrol?callback=GetMap&key=AgbT1aFV4z5EUwr0r3KT5YzT6xds6r3tOTFuQamnYRIqD0HdQQXsFufBXKEM3sTq' type='text/javascript'></script>
+<script src='https://www.bing.com/api/maps/mapcontrol?callback=GetMap&key=your-api-key-from-above' type='text/javascript'></script>
 ```
 
 Add a js file at the root level in wwwroot called script.js
