@@ -8,7 +8,7 @@ ViewComponents are nice tidy encapsulated bits of code and HTML in dotnet core m
 
 To insert the result of a view component into the page you do.
 
-'''html
+''' html
 <div class="position-relative" id="notifications">
     @await Component.InvokeAsync("Notification")
 </div>
@@ -23,7 +23,7 @@ However, what if you want the view component contents to refresh at some point, 
 
 You cannot call the viewcomponent from a post or get directly. You have to add an intermediary method in a normal controller.
 
-'''csharp
+''' csharp
 public IActionResult ReloadNotifications()
 {
     return ViewComponent("Notification");
@@ -32,7 +32,7 @@ public IActionResult ReloadNotifications()
 
 Write a javascript function as follows, that calls the normal controller, that then returns the contents of the view component.
 
-'''javascript
+''' javascript
 function reloadNotifications() {
     $.post('/App/ReloadNotifications',
         function (data) {
