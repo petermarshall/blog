@@ -18,12 +18,19 @@ Enterprise Application Developer with over 30 Years of experience as a contracto
 
 # Recent Experience
 
+#### Devops Manager / Scrum master / Senior Developer
 
+## SIMUR.ES (Malaga, Spain) 
+*February 2021 - present*
+
+**Skills:** DOTNET CORE, ASP.NET MVC, WEB API, C#, JavaScript, AWS, Micro services, Postgresql, Git, TDD, scrum, Okta, Jenkins, GraphQL, dapper, razor, BDDfy, rabbitMQ.
+
+* Replacing the clients grant profiling and indexation services to enable them to de-couple from legacy 3rd party systems.
 
 #### Senior Developer (contract)
 
 ## UKSBS (Swindon) 
-*November 2018 - present*
+*November 2018 - January 2021*
 
 **Skills:** DOTNET CORE, ASP.NET MVC, WEB API, C#, JavaScript, AWS, Micro services, Postgresql, Git, TDD, scrum, Okta, Jenkins, GraphQL, dapper, razor, BDDfy, rabbitMQ.
 
