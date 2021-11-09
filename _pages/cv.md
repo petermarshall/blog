@@ -37,25 +37,11 @@ Enterprise Application Developer with over 30 Years of experience as a contracto
 
 * As senior developer building up a development team and putting in place the software development process and toolset. Assisting the scrummaster to set up the scrum process and leading scrum retrospectives from time to time.
 
-* Creating a successful migration process to transfer millions of existing grants to the new system without loss of data.
+* Creating a successful migration process to transfer millions of existing grants from the legacy system to the new system, using S3 buckets for data storage, without loss of data.
 
-<<<<<<< HEAD
 * Writing code across the full stack, some of these modules were very complex indeed translating existing stored procedures for spread calculations into c#. 
   
 * Creating API's so external systems can interact with the microservices, including creating a GraphQL endpoint for client defined queries.
-=======
->>>>>>> 0df9c913f83e69aa33208e6e26f591b23a5652f9
-
-* Created the migration process to take data from the legacy system to the newly created system, using S3 buckets for data storage.
-
-
-
-
-
-
-
-
-
 
 #### Senior Developer (contract)
 
@@ -973,12 +959,12 @@ Programming Languages & Tools
 ![alt text](https://petermarshall.github.io/blog/images/ms_technology_specialist.png "Microsoft Technology Specialist")
 
 
-*   ![](./content/MCTS-NETFW2DistApps-logo-BW.png)
-*   ![](./content/MCTS-NETFW2WebApps-logo-BW.png)
-*   ![](./content/MCTS-NETFW2WinApps-logo-BW.png)
-*   ![](./content/MCPD-EnterpriseAppDev-logo-BW.png)
-*   ![](./content/MCAD-NET-logo-BW.png)
-*   ![](./content/MCSD1-VStudio6-logo-BW.png)
+*   ![MCTS Dist. Apps](./content/MCTS-NETFW2DistApps-logo-BW.png)
+*   ![MCTS Web Apps](./content/MCTS-NETFW2WebApps-logo-BW.png)
+*   ![MCTS Win Apps](./content/MCTS-NETFW2WinApps-logo-BW.png)
+*   ![MCPD Enterprise App Dev](./content/MCPD-EnterpriseAppDev-logo-BW.png)
+*   ![MCAD](./content/MCAD-NET-logo-BW.png)
+*   ![MCSD](./content/MCSD1-VStudio6-logo-BW.png)
 
 
 
