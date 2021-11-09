@@ -11,7 +11,7 @@ permalink: /cv/
 
 Enterprise Application Developer with over 30 Years of experience as a contractor working on a wide variety of development projects. Working mostly in Public Utilities, Telecoms, Finance and Scientific Journal Publishing.
 
-**Most recent Skills:** ASP.NET MVC, C#, SQL Server, Postgresql, Web Services, Visual Studio, Agile, Scrum, REST, LINQ, TDD, BDD, EF. Javascript, Angular, React, GraphQL, AWS
+**Most recent Skills:** ASP.NET MVC, C#, SQL Server, Postgresql, Web Services, Visual Studio, Agile, Scrum, REST, LINQ, TDD, BDD, EF. Javascript, Angular, React, GraphQL, Azure
 
 
 
@@ -23,9 +23,17 @@ Enterprise Application Developer with over 30 Years of experience as a contracto
 ## SIMUR.ES (Malaga, Spain) 
 *February 2021 - present*
 
-**Skills:** DOTNET CORE, ASP.NET MVC, WEB API, C#, JavaScript, AWS, Micro services, Postgresql, Git, TDD, scrum, Okta, Jenkins, GraphQL, dapper, razor, BDDfy, rabbitMQ.
+**Skills:** DOTNET CORE, ASP.NET MVC, WEB API, C#, JavaScript, Azure, Azure Devops, Micro services, MySql, Git, TDD, scrum, YAML, razor.
 
-* Replacing the clients grant profiling and indexation services to enable them to de-couple from legacy 3rd party systems.
+* Developing an Anti Money Laundering Application, contributting to the all aspects of the project. Front end code in ASP.NET MVC, back end services in WEB API DOTNET CORE in C#. 
+
+* This is a small startup, and as the senior developer I am responsible for CD and CI pipelines in Azure Devops. Setting up and maintaining the boards and backlogs in Azure Devops.
+
+* Because of the size and nature of this startup this role required me to be ultra flexible in working practices. Working both remotly and on site in Malaga, as well as working with developers and staff with varying degrees of english and software development experience.
+
+
+
+
 
 #### Senior Developer (contract)
 
