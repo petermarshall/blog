@@ -25,7 +25,7 @@ Enterprise Application Developer with over 30 Years of experience as a contracto
 ## UKSBS (Swindon) 
 *November 2018 - present*
 
-**Skills:** DOTNET CORE, ASP.NET MVC, WEB API, C#, JavaScript, AWS, Micro services, Postgresql, Git, TDD, scrum, Okta, Jenkins, GraphQL, dapper, razor, BDDfy,rabbitMQ.
+**Skills:** DOTNET CORE, ASP.NET MVC, WEB API, C#, JavaScript, AWS, Micro services, Postgresql, Git, TDD, scrum, Okta, Jenkins, GraphQL, dapper, razor, BDDfy, rabbitMQ.
 
 * Replacing the clients grant profiling and indexation services to enable them to de-couple from legacy 3rd party systems.
 
