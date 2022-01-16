@@ -11,21 +11,36 @@ permalink: /cv/
 
 Enterprise Application Developer with over 30 Years of experience as a contractor working on a wide variety of development projects. Working mostly in Public Utilities, Telecoms, Finance and Scientific Journal Publishing.
 
-**Most recent Skills:** ASP.NET MVC, C#, SQL Server, Postgresql, Web Services, Visual Studio, Agile, Scrum, REST, LINQ, TDD, BDD, EF. Javascript, Angular, React, GraphQL, AWS
+**Most recent Skills:** ASP.NET MVC, C#, SQL Server, Postgresql, Web Services, Visual Studio, Agile, Scrum, REST, LINQ, TDD, BDD, EF. Javascript, Angular, React, GraphQL, Azure
 
 
 
 
 # Recent Experience
 
+#### Devops Manager / Scrum master / Senior Developer
+
+## SIMUR.ES (Malaga, Spain) 
+*February 2021 - present*
+
+**Skills:** DOTNET CORE, ASP.NET MVC, WEB API, C#, JavaScript, Azure, Azure Devops, Micro services, MySql, Git, TDD, scrum, YAML, razor.
+
+* Developing an Anti Money Laundering Application, contributting to the all aspects of the project. Front end code in ASP.NET MVC, back end services in WEB API DOTNET CORE in C#. 
+
+* This is a small startup, and as the senior developer I am responsible for CD and CI pipelines in Azure Devops. Setting up and maintaining the boards and backlogs in Azure Devops.
+
+* Because of the size and nature of this startup this role required me to be ultra flexible in working practices. Working both remotly and on site in Malaga, as well as working with developers and staff with varying degrees of english and software development experience.
+
+
+
 
 
 #### Senior Developer (contract)
 
 ## UKSBS (Swindon) 
-*November 2018 - present*
+*November 2018 - January 2021*
 
-**Skills:** DOTNET CORE, ASP.NET MVC, WEB API, C#, JavaScript, AWS, Micro services, Postgresql, Git, TDD, scrum, Okta, Jenkins, GraphQL, dapper, razor, BDDfy,rabbitMQ.
+**Skills:** DOTNET CORE, ASP.NET MVC, WEB API, C#, JavaScript, AWS, Micro services, Postgresql, Git, TDD, scrum, Okta, Jenkins, GraphQL, dapper, razor, BDDfy, rabbitMQ.
 
 * Replacing the clients grant profiling and indexation services to enable them to de-couple from legacy 3rd party systems.
 
@@ -37,25 +52,11 @@ Enterprise Application Developer with over 30 Years of experience as a contracto
 
 * As senior developer building up a development team and putting in place the software development process and toolset. Assisting the scrummaster to set up the scrum process and leading scrum retrospectives from time to time.
 
-* Creating a successful migration process to transfer millions of existing grants to the new system without loss of data.
+* Creating a successful migration process to transfer millions of existing grants from the legacy system to the new system, using S3 buckets for data storage, without loss of data.
 
-<<<<<<< HEAD
 * Writing code across the full stack, some of these modules were very complex indeed translating existing stored procedures for spread calculations into c#. 
   
 * Creating API's so external systems can interact with the microservices, including creating a GraphQL endpoint for client defined queries.
-=======
->>>>>>> 0df9c913f83e69aa33208e6e26f591b23a5652f9
-
-* Created the migration process to take data from the legacy system to the newly created system, using S3 buckets for data storage.
-
-
-
-
-
-
-
-
-
 
 #### Senior Developer (contract)
 
@@ -973,12 +974,12 @@ Programming Languages & Tools
 ![alt text](https://petermarshall.github.io/blog/images/ms_technology_specialist.png "Microsoft Technology Specialist")
 
 
-*   ![](./content/MCTS-NETFW2DistApps-logo-BW.png)
-*   ![](./content/MCTS-NETFW2WebApps-logo-BW.png)
-*   ![](./content/MCTS-NETFW2WinApps-logo-BW.png)
-*   ![](./content/MCPD-EnterpriseAppDev-logo-BW.png)
-*   ![](./content/MCAD-NET-logo-BW.png)
-*   ![](./content/MCSD1-VStudio6-logo-BW.png)
+*   ![MCTS Dist. Apps](./content/MCTS-NETFW2DistApps-logo-BW.png)
+*   ![MCTS Web Apps](./content/MCTS-NETFW2WebApps-logo-BW.png)
+*   ![MCTS Win Apps](./content/MCTS-NETFW2WinApps-logo-BW.png)
+*   ![MCPD Enterprise App Dev](./content/MCPD-EnterpriseAppDev-logo-BW.png)
+*   ![MCAD](./content/MCAD-NET-logo-BW.png)
+*   ![MCSD](./content/MCSD1-VStudio6-logo-BW.png)
 
 
 
