@@ -9,7 +9,9 @@ permalink: /links/
 # Current Learning
 * [JavaScript Everywhere](https://github.com/javascripteverywhere/api) This is the book I am currently reading through.
 
-
+# dotnet project creation
+* [dotnet scafold](https://devblogs.microsoft.com/dotnet/introducing-dotnet-scaffold/)
+  
 # Markdown
 * [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet)
 
